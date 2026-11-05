@@ -175,12 +175,15 @@ Légende des délais et coûts : ordre de grandeur indicatif. DH = dirham maroca
 - [ ] Réserver le nom : **certificat négatif OMPIC** (230 DH, 24 à 48 h).
 - [ ] Rédiger les statuts. Objet social large : « nettoyage de vitres et de bâtiments, nettoyage et entretien de panneaux photovoltaïques, ravalement, peinture et traitement de façades, travaux en hauteur, travaux divers de bâtiment ».
 - [ ] Obtenir un certificat de **signature électronique** (utile pour DirectEntreprise, puis pour les marchés publics).
+- [ ] **Drones** : ne **pas** acheter ni expédier de drone au Maroc avant d'avoir la licence d'import, sinon il sera saisi. Choisir le modèle et réunir chez le fournisseur la documentation technique radio et la déclaration de conformité.
+- [ ] **Drones** : vérifier au SGG et à la DGAC si le décret sur les drones civils et son arrêté ont été publiés. Cette vérification décide du régime applicable.
 
 ### Phase B — Création (semaines 1 et 2)
 - [ ] Dépôt du dossier sur **DirectEntreprise** (OMPIC) : enregistrement, RC, IF, TP, ICE, CNSS.
 - [ ] Publications légales (JAL et BO).
 - [ ] Ouvrir un compte bancaire professionnel.
 - [ ] Vérifier l'**exonération de TP sur 5 ans**.
+- [ ] **Drones (dès l'obtention du RC et de l'ICE, c'est le chemin critique)** : remplir la **fiche d'information « Importation des engins volants sans pilote »** (Direction générale du Commerce) et déposer la demande de **licence d'importation** sur **PortNet**. Joindre la documentation radio pour l'ANRT et des justificatifs de destination finale (lettres d'intention de clients, contrats de syndics, exploitants solaires). L'instruction prend de 1 à 4 mois.
 
 ### Phase C — Avant la première intervention (semaines 2 à 4)
 - [ ] Souscrire l'**assurance accidents du travail** (loi 18-12) et une **RC professionnelle** qui couvre explicitement le travail en hauteur, la nacelle et les produits chimiques.
@@ -190,7 +193,16 @@ Légende des délais et coûts : ordre de grandeur indicatif. DH = dirham maroca
 - [ ] Former à l'**habilitation électrique** (au minimum B0/H0, BP pour le photovoltaïque) les équipes qui travailleront sur les centrales solaires.
 - [ ] Constituer les fiches de données de sécurité des produits. Prévoir la récupération des eaux de lavage et un collecteur agréé pour les déchets dangereux.
 
+### Phase C bis — Drones (mois 1 à 6, en parallèle)
+- [ ] Suivre l'instruction de la licence d'import (Commerce, ANRT, Intérieur). En attendant, démarrer avec des **perches à eau pure, des nacelles ou des cordistes** (plan B, sans régime drone).
+- [ ] Faire former et certifier les télépilotes (attestation constructeur ou certificat étranger reconnu, par exemple UE A2/STS) et constituer leurs dossiers (CIN, attestation de formation).
+- [ ] Souscrire une **assurance RC spécifique drone** couvrant le nettoyage de façades et de panneaux PV.
+- [ ] Une fois la licence obtenue : **dédouaner** le drone (ADII), conserver la licence et la DUM (elles servent de preuve dans chaque demande de vol).
+- [ ] Rédiger un **manuel d'exploitation** (procédures, analyse de risques, balisage, météo et vent, maintenance, déclaration des incidents sous 72 h). Il sert aux demandes de vol et à la future **certification d'exploitant DGAC**.
+- [ ] Après la publication du décret DGAC : demander l'**immatriculation** du drone, l'**enregistrement d'exploitant** et le **certificat d'exploitant** et de télépilote.
+
 ### Phase D — À chaque chantier de façade ou de vitres sur rue
+- [ ] **Si l'intervention se fait par drone** : vérifier la zone (aéroport, palais, site militaire ou officiel, médina) ; obtenir l'**accord écrit du propriétaire ou du syndic** ; déposer la **demande d'autorisation de vol** à la **wilaya ou préfecture** au moins 10 à 15 jours avant (lieu, date, créneau, pilote, drone, assurance, licence d'import) ; attendre l'**autorisation écrite** ; baliser le périmètre au sol ; n'enregistrer aucune image.
 - [ ] Vérifier si l'immeuble est en **médina**, **classé ou inscrit**, ou en zone de servitude. Si oui, prévoir l'avis de l'**Inspection des monuments historiques**, de l'**agence urbaine** et, à Fès, de l'ADER.
 - [ ] S'il y a modification d'aspect (peinture, enduit, réparation) : faire déposer par le **propriétaire ou le syndic** (l'entreprise comme mandataire) un **permis de réfection** sur **Rokhas.ma** (environ 10 jours, valable 6 mois).
 - [ ] Si l'échafaudage, la nacelle ou le camion occupe le trottoir ou la chaussée : obtenir l'**autorisation d'occupation temporaire du domaine public** de la commune ou de l'arrondissement, payer la taxe et, si besoin, prévenir la police pour la circulation.
@@ -200,6 +212,7 @@ Légende des délais et coûts : ordre de grandeur indicatif. DH = dirham maroca
 ### Phase E — Clients solaires et industriels (mois 2 à 4)
 - [ ] S'inscrire comme fournisseur auprès des exploitants O&M des centrales **Masen**, de l'**ONEE** et des industriels (OCP, etc.).
 - [ ] Préparer un **dossier HSE type** : attestations, assurances, plan de prévention, habilitations, références.
+- [ ] Sites solaires par drone : demander une **autorisation de vol récurrente** par site (wilaya et Gendarmerie hors agglomération), en plus des règles HSE de l'exploitant. S'appuyer sur le précédent de DR Stone à Noor Ouarzazate.
 
 ### Phase F — Marchés publics (mois 3 à 12)
 - [ ] S'inscrire sur **marchespublics.gov.ma** et activer la signature électronique.
@@ -220,6 +233,16 @@ Légende des délais et coûts : ordre de grandeur indicatif. DH = dirham maroca
 7. **Masen, ONEE et exploitants O&M** : processus d'inscription fournisseur et exigences HSE (habilitation électrique demandée ?).
 8. **SRM ou régie locale** : règles de rejet des eaux de lavage dans le réseau.
 9. **Statut d'auto-entrepreneur** : plafond 2026 pour les services et effets de la retenue à la source pour les clients professionnels.
+10. **DRONES (priorité 1)** :
+    - SGG et DGAC : le décret sur les drones civils et son arrêté sont-ils adoptés ou publiés ? Quel est le calendrier ?
+    - Direction générale du Commerce : délai réel d'une licence d'import pour un drone de nettoyage.
+    - Ministère de l'Intérieur : critères appliqués.
+    - ANRT : un agrément distinct est-il nécessaire ?
+    - Wilaya de la ville cible (Casablanca en premier) : service compétent, formulaire, délai pour une autorisation de vol, et possibilité d'une autorisation récurrente par site.
+    - Gendarmerie Royale : règles pour les sites solaires hors agglomération.
+    - ONDA et DGAC : distances aux aérodromes.
+
+    Demander aussi à Drone Clean Morocco et à DR Stone quel circuit d'autorisation ils ont suivi (à faire par l'agent 4, avec prudence : Drone Clean Morocco est un concurrent).
 
 ---
 
@@ -283,3 +306,22 @@ Légende des délais et coûts : ordre de grandeur indicatif. DH = dirham maroca
 - Nettoyage, gardiennage et SMIG (EcoActu) : https://ecoactu.ma/augmentation-smig-quand-etat-ne-donne-pas-exemple/
 - Règlement de consultation citant le décret 2-94-233 et le secteur Q (peinture) : https://alacademia.org.ma/wp-content/uploads/sites/18/2025/03/RC-Etanch-Pav-conf-V3.pdf
 - CPS de nettoyage (exemple de marché public) : https://frma.ma/wp-content/uploads/2021/04/CPS-02-NETTOYAGE-2021-prorog.pdf
+
+### Drones
+- Fiche d'information officielle « Importation des engins volants sans pilote (drones) », Direction générale du Commerce : https://www.mcinet.gov.ma/sites/default/files/fiche_information_04-15.pdf
+- Licence d'import, PortNet, avis de l'Intérieur, 616 autorisations (Le360, 08/03/2022) : https://fr.le360.ma/politique/abdelouafi-laftit-616-drones-autorises-a-survoler-le-ciel-marocain-256247/
+- Projet de décret DGAC sur les drones civils (Le360, 27/10/2025) : https://fr.le360.ma/economie/le-maroc-sapprete-a-lancer-une-filiere-industrielle-innovante-les-drones-civils_A5OHX3GYH5CLRERZYOCTIGWGA4/
+- « Drone civil : bientôt la fin du régime d'interdiction » (Maroc Diplomatique, 28/10/2025) : https://maroc-diplomatique.net/drone-civil-bientot-la-fin-du-regime-dinterdiction/
+- L'Économiste (édition anglaise), filière drones civils : https://weekly.leconomiste.com/civilian-drone-industry-preparing-for-takeoff/
+- Arrêté 386-15, autorisation préalable (Medias24, 25/02/2015) : https://medias24.com/2015/02/25/limportation-et-lutilisation-des-drones-soumise-a-autorisation-prealable/
+- Importations et utilisation strictement encadrées (TelQuel, 26/02/2015) : https://telquel.ma/2015/02/26/les-importations-lutilisation-drones-strictement-encadrees_1436060
+- Conditions d'importation (Bladi) : https://www.bladi.net/conditions-importations-drones-maroc,91285.html
+- Autorisation spécifique pour l'importation (Le360, 2015) : https://fr.le360.ma/politique/maroc-une-autorisation-specifique-pour-limportation-des-drones-33333/
+- Survol du palais royal de Rabat (Bladi) : https://www.bladi.net/palais-royal-survol-drone,50391.html
+- Guide prestataire 2026 (wilaya, CCM, 7 à 10 jours ; source non officielle) : https://www.creatixstudio.ma/reglementation-drone-maroc/
+- Autorisation drone, prestataire audiovisuel : https://www.adkeyprod.ma/autorisation-drone-maroc/
+- Code de l'aviation civile (loi 40-13), copie : https://portailsudmaroc.com/documents/250415_180816-code-de-l-aviation-civile.pdf
+- Décret 2-22-191 relatif aux services de la navigation aérienne : https://mtl.fornetmaroc.com/sites/default/files/reglementation/aviation-civile/D%C3%A9cret%20n%C2%B02-22191%20relatif%20aux%20services%20de%20la%20navigation%20a%C3%A9rienne.pdf
+- Drone Clean Morocco (Télécontact) : https://www.telecontact.ma/annonceur/drone-clean-morocco/9052694/casablanca.php
+- DR Stone, inspection par drone à Noor Ouarzazate : https://www.drstone.ma/en/copy-of-accueil
+- Usages des drones limités (inspection de panneaux solaires), Covid-19 (TelQuel, 2020) : https://telquel.ma/2020/05/06/les-drones-essaiment-au-maroc-avec-la-pandemie-de-covid-19_1682655
