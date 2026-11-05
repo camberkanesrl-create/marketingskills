@@ -278,6 +278,188 @@ Repères européens : vitres **1 – 6 €/m²** ([bobex.be](https://www.bobex.b
 
 ---
 
+## 8. Drone
+
+### 8.1 Drones de nettoyage disponibles et prix
+
+| Modèle | Type | Prix relevé | Prix estimé rendu Maroc (MAD HT) **[Hypothèse]** | Remarques |
+|---|---|---|---|---|
+| **Lucid Bots Sherpa C1** (États-Unis) | Drone de lavage alimenté par tuyau (vitres, façades) | **45 750 $** en 2026, contre 75 000 $ auparavant ([thedronegirl.com](https://www.thedronegirl.com/2026/04/23/building-cleaning-drone/)) ; revendeur dès 50 325 $ ([rippingitoutdoors.com](https://rippingitoutdoors.com/products/lucid-bots-sherpa-cleaning-drone-model-c1-max-working-voltage-52-2v-width-53-inches-for-industrial-cleaning)). Abonnement « Refresh » de 2 950 à 4 600 $/mois sur 24 mois, avec 8 batteries et 2 chargeurs ([pricing.lucidbots.com](https://pricing.lucidbots.com/refresh)) | 450 000 – 520 000 | Le plus documenté. Abonnement **non disponible au Maroc a priori** et trop cher (~27 000 – 43 000 MAD/mois). L'export d'un drone américain peut demander des formalités **[À vérifier]**. |
+| **ABZ Innovation C10** (Hongrie, UE) | Drone de lavage, débit 15 L/min | **16 149 $** pour le drone seul ; kit prêt à voler avec 4 batteries, prix non publié ; vol de 12 min avec charge ; vent maximal 10 m/s ([globaldronehq.com](https://globaldronehq.com/blogs/news/building-facade-window-cleaning-drones-2026-contractors-guide)) | 180 000 – 230 000 (kit complet) | Origine UE : droits de douane potentiellement réduits **[À vérifier]**. |
+| **DJI FlyCart 30 (FC30) + kit de nettoyage** (Foxtech AeroClean, Maverick, etc.) | Drone porteur lourd avec kit haute pression ou câblé (tethered) | FC30 : **18 165 – 20 560 $** ([dslrpros.com](https://dslrpros.com/collections/all?page=7), [buydirectny.com](https://buydirectny.com/products/dji-flycart-30-heavy-lift-industrial-aerial-delivery-drone-for-long-range-cargo)) ; kit AeroClean P2/A30 : **12 000 $** ([rcdrone.top](https://rcdrone.top/products/aeroclean-p2a30-aerial-high-pressure-cleaning-system-for-dji-drones-heavy-duty-drones)) ; T120 Duo câblé : 1 599 – 45 999 $ ([store.foxtech.com](https://store.foxtech.com/aeroclean-t120-duo-tethered-aerial-cleaning-power-supply-dji-fc30-drone)) ; **batterie DB2000 : ~2 340 $ l'unité** ([dronefly.com](https://dronefly.com/products/dji-db2000-intelligent-flight-battery)) | 380 000 – 480 000 (drone + kit + 4 batteries) | Plateforme lourde et polyvalente. Le câble permet de voler longtemps. Les drones DJI **Agras (série T)** sont conçus pour l'épandage agricole : leur adaptation au lavage passe par les mêmes kits tiers. |
+| **XAG (P100 et autres)** (Chine) | Drone agricole utilisé pour le nettoyage solaire | Pas de prix officiel ; XAG P100 cité pour le nettoyage solaire ([fairlifts.com](https://www.fairlifts.com/uav/solar-panel-drone-cleaning-the-future-of-renewable-energy-maintenance/)) | 150 000 – 250 000 **[Hypothèse]** | Il faut obtenir un devis chez un distributeur. |
+| **Drones chinois « génériques »** (Joyance JTC, RCDrone C120/C200, etc.) | Drone de lavage câblé | **8 999 – 46 000 $** ([rcdrone.top](https://rcdrone.top/products/rcdrone-c120-cleaning-drone)) ; environ 10 000 $ ([madeinchina.com](https://www.madeinchina.com/mall/show-Best-Seller-Cleaning-Drone-with-Rtk-Long-Time-Flying-for-Building-Wash_1061834.html)) | 110 000 – 250 000 | Le moins cher, mais le SAV et la documentation sont faibles. |
+| **Aerones** (Lettonie) | Drone câblé lourd pour gratte-ciel et éoliennes | **A abandonné les drones industriels** pour des robots au sol en 2020 ([ipsnews.net](https://ipsnews.net/business/2020/06/17/aerones-abandons-industrial-drones-to-focus-on-ground-based-robotics-as-it-raises-1-6m/?amp=1)) | Non disponible | À écarter. |
+| **Skyline Robotics (Ozmo)** (Israël) | Bras robotisé monté sur nacelle de façade (BMU), **pas un drone** | Pas de prix ; financement de ~22,8 M$ ([cbinsights.com](https://www.cbinsights.com/company/skyline-robotics/financials)) | Non pertinent | Réservé aux tours équipées de BMU. |
+
+**Concurrent local** : *Drone Clean Morocco* (Casablanca) annonce déjà le nettoyage de vitres et de façades de grande hauteur par drone ([telecontact.ma](https://www.telecontact.ma/annonceur/drone-clean-morocco/9052694/casablanca.php)). C'est une **preuve qu'une telle activité peut exister au Maroc**. Nous n'avons pas vérifié son statut d'autorisation.
+
+### 8.2 Kit au sol, batteries, maintenance
+
+Le drone ne porte pas l'eau : il est **alimenté par un tuyau** (et parfois par un câble électrique) depuis une **station au sol**.
+
+| Élément | Rôle | Prix estimé (MAD HT) **[Hypothèse sauf mention]** |
+|---|---|---|
+| Pompe haute pression thermique ou électrique (Kärcher HD 7/20 G, cité par l'ABZ C10) | Envoie l'eau jusqu'au drone | 15 000 – 25 000 |
+| Osmoseur RO + résine (pour les vitres et le solaire, sans traces) | Eau pure | 30 000 – 45 000 (voir § 1.1) |
+| Groupe électrogène 6–10 kVA | Pompe, osmoseur, **recharge des batteries sur chantier** | 15 000 – 30 000 |
+| Cuve 1 000 L, tuyau HP de 60 à 100 m, enrouleur, raccords | Autonomie en eau | 8 000 – 15 000 |
+| **Batteries supplémentaires** | 4 à 8 batteries pour tourner en continu | Classe FC30 : ~22 000 MAD l'unité (2 340 $) ; classe ABZ ou chinoise : 8 000 – 15 000 MAD l'unité |
+| Chargeurs rapides | Recharge en 11 min minimum annoncée pour l'ABZ C10 ([globaldronehq.com](https://globaldronehq.com/blogs/news/building-facade-window-cleaning-drones-2026-contractors-guide)) | 5 000 – 15 000 |
+| Balisage, barrières, panneaux, radios | Périmètre de sécurité au sol | 3 000 – 6 000 |
+| **Stock de pièces** (hélices, bras, moteur, buses, contrôleur) | Éviter des semaines d'arrêt (pièces importées) | 15 000 – 40 000 |
+| **Maintenance annuelle** (contrat constructeur, révision, remplacement des batteries) | Durée de vie d'une batterie : 300 – 1 000 cycles **[Hypothèse]** | **8 à 12 % de la valeur du drone par an** |
+
+### 8.3 Import au Maroc : droits, autorisation, délais
+
+- **Autorisation obligatoire** : depuis 2015, **l'importation de drones exige une licence** du ministère chargé du Commerce extérieur, **après accord du ministère de l'Intérieur** (arrêté n° 386-15 pris en application de la loi 13-89) ([le360.ma](https://fr.le360.ma/politique/maroc-une-autorisation-specifique-pour-limportation-des-drones-33333/), [telquel.ma](https://telquel.ma/2015/02/26/les-importations-lutilisation-drones-strictement-encadrees_1436060), [medias24.com](https://medias24.com/2015/02/25/limportation-et-lutilisation-des-drones-soumise-a-autorisation-prealable/)).
+  - Seules **les entreprises et les instances publiques** peuvent déposer une demande ([bladi.net](https://www.bladi.net/conditions-importations-drones-maroc,91285.html)).
+  - **329 importations permanentes** à usage professionnel ont été autorisées depuis 2015 ([le360.ma](https://fr.le360.ma/politique/parlement-le-gouvernement-interpelle-sur-linterdiction-de-limportation-de-drones-253304/)). C'est donc **possible, mais filtré**.
+  - Un drone importé sans licence est **saisi systématiquement** ([bladi.net](https://www.bladi.net/voyager-drone-douane-marocaine-plaisante,115386.html)).
+  - **Chaque utilisation** a aussi pu exiger une autorisation de l'autorité locale ([telquel.ma](https://telquel.ma/2015/02/26/les-importations-lutilisation-drones-strictement-encadrees_1436060)).
+- **Réforme en cours** : un projet de décret préparé par la **DGAC** a été transmis au SGG en octobre 2025 ([le360.ma](https://fr.le360.ma/economie/le-maroc-sapprete-a-lancer-une-filiere-industrielle-innovante-les-drones-civils_A5OHX3GYH5CLRERZYOCTIGWGA4/)).
+  - Il ferait de la DGAC l'**autorité centrale**, avec un certificat pour l'exploitation, l'immatriculation et l'enregistrement des exploitants.
+  - Il exigerait un **système de gestion des risques** et des comptes rendus d'incident sous 72 h.
+  - Le certificat couvrirait aussi **les pièces détachées** (moteurs, hélices, télécommandes).
+  - **Son entrée en vigueur n'est pas confirmée**, et l'arrêté d'application est attendu.
+- **Droits et taxes** : il faut compter un droit d'importation de **2,5 % à 17,5 % selon la position SH 8806 [À vérifier]** et la **TVA à l'import de 20 %**, récupérable ([macalculatriceenligne.com](https://macalculatriceenligne.com/maroc/calcul-tarif-douane-maroc/)). Une origine UE (ABZ) pourrait bénéficier de droits réduits **[À vérifier]**. Les **batteries lithium** voyagent comme marchandises dangereuses (classe 9), ce qui rend le fret plus cher.
+- **Coordination avec l'agent 3** (réglementaire) : les points ci-dessus sont **à confirmer par son livrable**. Pour la faisabilité, nous retenons les hypothèses suivantes **[Hypothèse]** :
+
+| Impact | Estimation |
+|---|---|
+| Délai d'obtention de la licence d'import, puis dédouanement | **3 à 6 mois** (pessimiste : 9 mois ou plus, ou refus) |
+| Coût du dossier (transitaire, juriste, traductions, fret spécial batteries) | **15 000 – 30 000 MAD** par import |
+| Coût indirect | Capital immobilisé, **4 à 9 mois de charges sans revenus drone**, pièces de rechange soumises au même régime (stock obligatoire) |
+| Autorisation de vol par chantier (si maintenue) | 1 à 3 semaines par chantier, ce qui ralentit le cycle de vente |
+
+### 8.4 Productivité comparée
+
+| Méthode | Productivité | Hauteur pratique | Équipe | Source |
+|---|---|---|---|---|
+| Perche à eau pure | 300 – 500 m²/jour (≈ 40 – 60 m²/h) | ≤ 15 – 20 m | 1 – 2 | **[Hypothèse]** (§ 5.3) |
+| Nacelle | 200 – 400 m²/jour + location de 1 200 à 3 500 MAD/jour | ≤ 41 m | 2 | **[Hypothèse]** |
+| Cordiste | 150 – 300 m²/jour par cordiste | Illimitée | 2 au minimum (sécurité) | **[Hypothèse]** |
+| **Drone (en vol)** | Sherpa : ~300 sq ft/min, soit **~1 650 m²/h en vol** ; câblés : **500 – 1 000 m²/h** annoncés | Limitée par le tuyau : ~40 m (140 ft) pour le Sherpa, jusqu'à 70 m annoncés par certains opérateurs | – | [lucidbots.com](https://www.lucidbots.com/blog/how-pressure-washing-drones-work), [rcdrone.top](https://rcdrone.top/fr/products/aearoclean-p3t50-tethered-cleaning-system), [toute-la-franchise.com](https://www.toute-la-franchise.com/franchise/ty-drone) |
+| **Drone (journée réelle)** | Lucid : **15 000 – 25 000 sq ft/jour, soit ~1 400 – 2 300 m²/jour**, changements de batterie compris. **Retenu pour le Maroc : 800 – 1 500 m²/jour [Hypothèse]** | idem | **1 télépilote + 1 assistant au sol** ([lucidbots.com](https://www.lucidbots.com/blog/cleaning-drone-vs-pressure-washing)) | Chiffres constructeur, aucune mesure indépendante |
+
+**Lecture** : le drone est **3 à 5 fois plus productif** qu'une nacelle ou une perche sur les grandes surfaces vitrées ou les façades de plus de R+4. Il supprime aussi la location de nacelle et le **risque de chute** de l'opérateur. Sur une villa ou une vitrine, il n'apporte **pas de gain** : la mise en place prend 30 à 60 minutes, et la perche reste plus rentable.
+
+**Panneaux solaires** : le drone fait du **rinçage sans brossage**. Il est efficace pour la poussière légère et les toits difficiles d'accès. Il l'est **moins pour la poussière collée** (rosée + sable), fréquente au Maroc, et il **consomme de l'eau**. Pour les fermes au sol, les **robots à brosses sans eau** (§ 1.1) restent préférables.
+
+### 8.5 Limites opérationnelles
+
+| Limite | Détail | Mesure |
+|---|---|---|
+| **Vent** | Sherpa : 18 mph (~8 m/s) ([lucidbots.com](https://www.lucidbots.com/sherpa-drone)) ; ABZ C10 : 10 m/s ; AeroClean P3 câblé : **6 m/s** ([rcdrone.top](https://rcdrone.top/fr/products/aearoclean-p3t50-tethered-cleaning-system)). Les vents sont fréquents à Tanger (levante), sur la côte atlantique (alizés de l'après-midi) et pendant le **chergui** | Planifier les vols **le matin**. Prévoir **15 à 25 % de jours perdus [Hypothèse]**. Garder un plan B à la perche ou à la nacelle. |
+| **Chergui et chaleur** | Plus de 40 °C : les batteries perdent en capacité et en durée de vie, et la poussière en suspension gêne le travail | Opérer tôt le matin, prévoir une glacière et de l'ombre pour les batteries, accepter des cycles plus courts. |
+| **Zones urbaines denses** | Rues étroites, passants, voitures, câbles, **zones sensibles** (palais, casernes, aéroports, administrations), **autorisation locale** possible | Bâtiments situés en **zones d'affaires ou industrielles** au début. Périmètre balisé. Interventions **tôt le matin ou le week-end**. Dossier type d'autorisation par chantier. |
+| **Eau** | Débit de **~15 L/min** (ABZ), soit **~900 L/h**. C'est **plus que la perche** (1 à 2 L/min) | Eau du client, eau pure en basse pression pour les vitres, récupération en pied de façade si possible. |
+| **Hauteur** | Tuyau et câble : environ 40 à 70 m au maximum | Au-delà (tours), cordistes ou BMU. |
+| **Qualité** | Pas de contact mécanique : la saleté incrustée et la pollution urbaine de Casablanca partent moins bien | Prétraitement (produit biodégradable) ou passage à la brosse, à la perche ou en gommage. |
+
+### 8.6 Assurance drone au Maroc
+
+- **Aucune offre marocaine publique** n'a été trouvée. Les repères viennent de France : la RC drone professionnelle coûte **300 à 800 €/an** pour des missions légères et **800 à 2 500 €/an** pour du matériel lourd. La **casse et le vol sont en option** ([france-epargne.fr](https://www.france-epargne.fr/academy/guide-complet-de-l-assurance-drone-en-2025-reglementation-prix-et-conseils), [jechange.fr](https://www.jechange.fr/assurance/drone/professionnel)).
+- **Au Maroc [Hypothèse]** : il faut passer par un **courtier ayant une branche aviation** et une réassurance internationale. Le budget est estimé à :
+  - **15 000 – 35 000 MAD/an** pour la RC aérienne vis-à-vis des tiers et la RC pro hauteur ;
+  - **5 à 8 % de la valeur du drone par an** pour la casse.
+- **La licence d'import ou le certificat DGAC sera probablement exigé par l'assureur**, et l'inverse est possible aussi. Il faut lancer les deux démarches en parallèle.
+- Il faut aussi conserver la **RC pro classique** et l'**AT** (§ 3.3) pour l'équipe au sol.
+
+### 8.7 Modèle financier révisé (drone)
+
+> **[Hypothèses]** :
+> - Prix de vente drone : façade ou vitres en hauteur à **8 – 15 MAD/m²**. Le client économise la nacelle, facturée 15 à 30 MAD/m² plus la location (§ 5.3).
+> - Solaire sur toit difficile d'accès : 10 – 15 MAD par panneau.
+> - Ravalement par drone (lavage HP + produit) : 15 – 30 MAD/m².
+> - **Mois 1 à 5 : attente de la licence**. Pendant ce temps, l'équipe vend du **plan B** (perche à eau pure et solaire, comme le scénario A). Le drone vole à partir du **mois 6**.
+> - Amortissement du matériel sur **4 ans**, IS à 20 %, TVA neutre.
+
+#### Investissement de départ
+
+| Poste (MAD HT) | Drone léger (1 drone) | Drone complet (2 drones) |
+|---|---|---|
+| Drone(s) + kit de nettoyage + 4 batteries par drone | 160 000 (classe ABZ C10 ou kit chinois) | 620 000 (1 FC30 + kit câblé, et 1 classe ABZ) |
+| Station au sol (pompe HP, osmoseur, groupe, cuve, tuyaux, chargeurs) | 70 000 | 150 000 (2 stations) |
+| Stock de pièces de rechange | 15 000 | 40 000 |
+| Licence d'import, transitaire, fret spécial | 15 000 | 25 000 |
+| Formation télépilote (en Europe ou chez le constructeur) **[Hypothèse]** | 15 000 (1 pilote) | 40 000 (2 pilotes) |
+| Véhicule utilitaire | 85 000 (occasion) | 265 000 (1 neuf + 1 occasion) |
+| Matériel du plan B (perches carbone, EPI, brosses solaires) | 15 000 | 20 000 |
+| Création de la société, juridique, assurances (1er acompte) | 15 000 | 30 000 |
+| Marketing (vidéos de démonstration drone, site, prospection B2B) | 10 000 | 30 000 |
+| Robots solaires sans eau | – | 60 000 |
+| Fonds de roulement (BFR) | 0 | 100 000 |
+| **Total** | **~400 000 MAD** | **~1 380 000 MAD** |
+
+#### Charges mensuelles (année 1)
+
+| Poste | Drone léger (2 personnes) | Drone complet (7 personnes) |
+|---|---|---|
+| Personnel (coût employeur) | Gérant-télépilote 6 000 + assistant au sol 5 100 | Gérant 8 000 + 2 pilotes 25 000 + 2 assistants 10 200 + commercial 6 250 |
+| Carburant (véhicule et groupe) | 3 500 | 7 000 |
+| Assurances (drone, RC hauteur, AT, auto, matériel) | 2 500 | 5 000 |
+| Maintenance drone et provision batteries | 3 000 | 6 000 |
+| Dépôt sécurisé (stockage des drones) | 1 500 | 5 000 |
+| Comptable, télécoms, logiciels | 1 500 | 3 000 |
+| Marketing | 2 000 | 5 000 |
+| Divers | 900 | 2 550 |
+| **Total charges fixes** | **~26 000** | **~82 000** |
+| Coûts variables (produits, eau, location ponctuelle de nacelle, déplacements) | 15 % du CA | 18 % du CA |
+| **Point mort (CA mensuel HT)** | **~30 600 MAD** (environ **4 jours de drone par mois** à 8 000 MAD/jour) | **~100 000 MAD** (environ **12 à 13 jours-drone par mois**) |
+
+#### Prévisions
+
+Montée en charge retenue :
+- **Drone léger** : CA de 6 000 MAD au mois 1, 20 000 MAD au mois 5 (plan B), 28 000 MAD au mois 6 (premier vol), 60 000 MAD au mois 12, 78 000 MAD au mois 24 et 90 000 MAD au mois 36. Charges fixes de 32 000 en année 2 et 38 000 en année 3.
+- **Drone complet** : CA de 20 000 MAD au mois 1, 170 000 MAD au mois 12, 218 000 MAD au mois 24 et 242 000 MAD au mois 36. Charges fixes de 90 000 en année 2 et 98 000 en année 3.
+
+| Indicateur (MAD) | Léger A1 | Léger A2 | Léger A3 | Complet A1 | Complet A2 | Complet A3 |
+|---|---|---|---|---|---|---|
+| CA HT | 384 000 | 837 000 | 1 014 000 | 1 115 000 | 2 352 000 | 2 772 000 |
+| Résultat avant IS | −68 100 | +245 000 | +323 400 | −344 700 | +573 600 | +822 000 |
+| IS 20 % | 0 (cotisation minimale) | 49 000 | 64 700 | 0 (cotisation minimale) | 114 700 | 164 400 |
+| **Résultat net** | **−68 100** | **+196 000** | **+258 700** | **−344 700** | **+458 900** | **+657 600** |
+
+| Trésorerie cumulée, investissement compris (avant IS) | Point bas | M12 | M24 | M36 | Retour sur investissement |
+|---|---|---|---|---|---|
+| Drone léger | **−479 000** (M6) | −386 000 | −58 000 | **+348 000** | **mois 26** |
+| Drone complet | **−1 642 000** (M6) | −1 450 000 | −601 000 | **+496 000** | **mois 31** |
+| Drone léger, **licence retardée** (drone au mois 10) | −458 000 | −409 000 | −122 000 | **+243 000** | **mois 29** |
+
+**Lecture** :
+- **Drone léger** :
+  - **besoin de financement d'environ 480 000 MAD** ;
+  - **meilleure rentabilité à 36 mois** que le scénario A sans drone (+348k contre +52k) ;
+  - le point mort est atteint au mois 7 et le **retour sur investissement au mois 26** ;
+  - ce résultat **dépend fortement** de deux hypothèses : environ **7 à 8 jours de drone facturés par mois au mois 12**, et une **licence obtenue en moins de 6 mois** ;
+  - si le drone n'arrive qu'au mois 10, le retour sur investissement recule d'environ 3 mois, mais le projet reste viable.
+- **Drone complet** :
+  - **besoin de financement d'environ 1,65 MMAD** ;
+  - il faut environ **13 jours-drone facturés par mois** pour couvrir les charges, ce qui suppose des **contrats-cadres signés à l'avance** (foncières, promoteurs, hôtels, centrales solaires) ;
+  - c'est **trop risqué tant que la licence n'est pas acquise**.
+- **Ce que les chiffres ne disent pas** : la **demande réelle** en façades hautes (Casablanca, Rabat, Tanger, Marrakech) et le prix accepté doivent être validés par l'agent marché. Si le drone ne vole que 3 jours par mois, le scénario léger **ne couvre pas ses charges**.
+
+### 8.8 Verdict mis à jour
+
+**Le modèle drone est faisable, mais pas comme point de départ unique.** Le premier risque n'est ni technique ni financier : c'est **réglementaire** (licence d'import, autorisations de vol, réforme DGAC pas encore en vigueur). Viennent ensuite le **vent** et la **demande en grandes façades**.
+
+**Recommandation : un lancement hybride, en « Drone léger ».**
+1. **Mois 0** : créer la SARL AU. Déposer **immédiatement** la demande de licence d'import (une société est obligatoire pour déposer). Demander des devis à 2 fournisseurs : **ABZ C10** (origine UE) et **kit FC30**. Consulter un courtier aviation pour l'assurance.
+2. **Mois 0 à 5** : générer du revenu avec le **plan B** (vitres à l'eau pure par perche et nettoyage solaire, comme le scénario A). En parallèle, **pré-vendre les prestations drone** à des grands comptes (lettres d'intention, chantiers pilotes).
+3. **Dès la licence obtenue** : passer la commande et former le télépilote. Commencer par des **façades vitrées de R+4 à R+12 en zones d'affaires** et par des **toits solaires industriels difficiles d'accès**, là où le drone remplace une nacelle.
+4. **Après 12 à 18 mois** : passer au **Drone complet**, avec un 2e drone et du ravalement par drone, si l'on dépasse **10 jours de drone facturés par mois** et si des contrats-cadres sont signés.
+
+**Service de démarrage avec le drone** : **nettoyage de façades vitrées de bureaux et d'hôtels** de 4 à 12 étages. C'est là que le gain sur la nacelle est le plus fort. Le **solaire sur toits industriels** vient en second. Le ravalement par drone (lavage HP) ne remplace pas l'hydrogommage pour la pierre : il faut le garder pour plus tard.
+
+**Plan B si l'autorisation tarde (plus de 6 mois) ou est refusée** :
+- Continuer avec le **scénario A** (§ 5 et § 7) : perche à eau pure, solaire, **nacelle louée** et **cordistes sous-traités** pour la hauteur. Il est rentable sans drone, avec un retour sur investissement vers le mois 32.
+- **Ne pas commander le drone avant la licence** : sinon le matériel est saisi et 160 000 à 620 000 MAD sont immobilisés.
+- Option intermédiaire : **sous-traiter** les chantiers drone à un opérateur déjà autorisé (par exemple Drone Clean Morocco, ou un autre à identifier), contre une marge, en attendant sa propre licence.
+- **Suivre la réforme DGAC** (agent 3) : si le décret entre en vigueur, la procédure pourrait se simplifier, avec un guichet unique à la DGAC.
+
+---
+
 ## Annexe — Points à vérifier en priorité
 
 1. Devis de RC pro et d'AT pour une activité de travail en hauteur, auprès de 2 ou 3 assureurs ou courtiers marocains.
@@ -286,3 +468,7 @@ Repères européens : vitres **1 – 6 €/m²** ([bobex.be](https://www.bobex.b
 4. Tarifs journaliers de location de nacelles et d'échafaudages à Casablanca, Rabat et Marrakech.
 5. Montant exact de la cotisation minimale à l'IS (CGI 2026, article 144).
 6. Obligation TRC/RCD pour les travaux de ravalement.
+7. **Drone** : procédure et délai réels de la licence d'import (arrêté 386-15), statut du décret DGAC, et existence d'une autorisation de vol par chantier (avec l'agent 3).
+8. **Drone** : position SH 8806 et droit applicable selon l'origine (UE ou Chine), et fret des batteries lithium.
+9. **Drone** : devis d'assurance RC aérienne et casse auprès d'un courtier ayant une branche aviation.
+10. **Drone** : statut et références de Drone Clean Morocco (concurrent ou sous-traitant possible).
