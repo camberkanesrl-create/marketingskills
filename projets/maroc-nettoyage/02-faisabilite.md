@@ -4,6 +4,8 @@
 **Périmètre** : faisabilité (matériel, eau, personnel, cadre juridique et fiscal, modèle financier, risques, verdict). L'étude de marché est traitée dans un autre livrable.
 **Date** : novembre 2026.
 
+> **Mise à jour** : le client veut réaliser les trois services **par drone**. La **section 8 (Drone)** ajoute le matériel, l'import, la productivité, l'assurance et un modèle financier pour deux scénarios drone. Le **verdict de la section 7 a été révisé** en conséquence. Les sections 1 à 6 restent valables : elles servent de **base au plan B** (perche à eau pure, nacelle, cordistes) et couvrent les coûts communs (personnel, société, fiscalité).
+
 > **Légende**
 > - **[Source]** : chiffre trouvé en ligne, URL citée.
 > - **[Hypothèse]** : estimation de travail, à confirmer par devis ou par l'étude de marché.
@@ -255,7 +257,9 @@ Repères européens : vitres **1 – 6 €/m²** ([bobex.be](https://www.bobex.b
 
 ## 7. Verdict
 
-**Le projet est faisable, à condition de démarrer avec le scénario A (léger, environ 170 000 – 220 000 MAD de financement) et de garder le scénario B comme phase 2 après 12 à 18 mois.**
+> **Verdict révisé (modèle drone)** : voir **§ 8.8**. Le verdict ci-dessous porte sur le modèle sans drone. Il reste valable comme **plan B** si l'autorisation drone tarde ou est refusée.
+
+**Le projet (sans drone) est faisable, à condition de démarrer avec le scénario A (léger, environ 170 000 – 220 000 MAD de financement) et de garder le scénario B comme phase 2 après 12 à 18 mois.**
 
 **Services de démarrage** : **nettoyage de panneaux solaires** et **nettoyage de vitres à l'eau pure par perche**, réalisés avec le même matériel.
 

@@ -15,16 +15,22 @@ Avertissement général : il n'existe presque pas de **prix publics en MAD** pou
 
 ## 1. Synthèse
 
-| Service | Moteur principal de la demande | Note de potentiel |
-|---|---|---|
-| Nettoyage de panneaux solaires | Loi 82-21 en vigueur depuis juin 2026, environ 1 GW de solaire distribué ajouté en 2025, encrassement de 0,2 %/jour | **8/10** |
-| Nettoyage / ravalement de façades | Obligation de ravalement tous les 5 ans à Casablanca, Mondial 2030 | **7,5/10** |
-| Nettoyage de vitres (hauteur) | Tours de bureaux, hôtels, malls : marché récurrent mais concurrentiel | **6,5/10** |
+**Modèle retenu : nettoyage par drone** (drone à tuyau ou pulvérisation, alimenté depuis le sol). Voir la section 7.
 
-Les **3 meilleures niches pour démarrer** (détail en section 7) :
-1. **Nettoyage solaire des toitures industrielles et logistiques** (Tanger, Kénitra, Casablanca), sous contrat annuel.
-2. **Mise en conformité des façades à Casablanca** pour les syndics et les propriétaires d'immeubles (nettoyage, ravalement léger).
-3. **Vitres et façades vitrées en hauteur** pour les hôtels et les bureaux de catégorie A (Casablanca Finance City, Marrakech).
+| Service | Moteur principal de la demande | Note avec drone |
+|---|---|---|
+| Nettoyage de panneaux solaires | Loi 82-21 en vigueur depuis juin 2026, environ 1 GW de solaire distribué ajouté en 2025, encrassement de 0,2 %/jour. Aucun concurrent drone au Maroc. | **8,5/10** |
+| Nettoyage / ravalement de façades | Ravalement tous les 5 ans et nettoyage de la pierre et du marbre imposés à Casablanca, Mondial 2030 | **8/10** |
+| Nettoyage de vitres (hauteur) | Récurrent. Le drone gagne sur les immeubles sans nacelle et perd sur les très grandes tours. | **6,5/10** |
+| Thermographie par drone (nouveau) | Vente additionnelle au nettoyage solaire, seule porte vers les centrales | **7/10** |
+| Serres du Souss (nouveau) | Blanchiment, déblanchiment et lavage par drone | **7/10** |
+
+Les **3 meilleures niches pour démarrer** (détail en section 8) :
+1. **Toitures PV industrielles : nettoyage par drone et thermographie** (Tanger, Kénitra, Casablanca), sous contrat annuel.
+2. **Façades et vitres d'immeubles sans nacelle à Casablanca** (conformité à l'arrêté, diagnostic par drone, lavage).
+3. **Serres du Souss-Massa** : blanchiment, déblanchiment et lavage par drone.
+
+Condition préalable : obtenir les **autorisations de vol professionnelles**. Le nouveau cadre réglementaire des drones n'est pas confirmé (section 7.3).
 
 ---
 
@@ -230,34 +236,128 @@ Critères notés sur 5, avec une pondération : demande (30 %), solvabilité (25
 
 ---
 
-## 7. Les 3 meilleures niches pour démarrer
 
-1. **Contrats annuels de nettoyage solaire pour toitures industrielles (Tanger, Kénitra, Casablanca)**
-   - Pourquoi : le parc grandit vite (plus de 1 GW distribué en 2025 et l'objectif SR500), la loi 82-21 est en vigueur, et les pertes sont chiffrables (6 à 15 %). Il y a presque aucun concurrent spécialisé.
-   - Offre [E] : un contrat de 4 à 6 passages par an, avec un rapport de production avant/après et une inspection visuelle (thermographie par drone en option).
-   - Canaux [E] : partenariats avec les installateurs et les EPC, qui sous-traitent l'O&M ; associations des zones franches (AFZ, Tanger Med).
+## 7. Nettoyage par drone
 
-2. **Mise en conformité des façades à Casablanca (syndics, propriétaires, bailleurs)**
-   - Pourquoi : la demande est **contrainte par la réglementation** (cycle de 5 ans, travaux d'office, amendes). Il y a plus de 3 500 façades dans le programme public, et les façades en pierre ou marbre exigent un **nettoyage**, pas une peinture.
-   - Offre [E] : diagnostic gratuit, devis « conformité arrêté », nettoyage technique ou ravalement léger, et contrat d'entretien de façade.
-   - Risque : la concurrence des peintres bon marché sur la partie peinture. Il faut se différencier sur le nettoyage technique et le travail en hauteur.
+**Changement de modèle** : le client nettoie les vitres, les panneaux solaires et les façades **par drone**. Les drones pulvérisent de l'eau ou un produit et sont alimentés depuis le sol par un tuyau. Cette section revoit le marché sous cet angle. Les sections 1 à 6 restent valables pour la demande de fond.
 
-3. **Vitres et façades vitrées en hauteur pour les hôtels et les bureaux de catégorie A**
-   - Pourquoi : les clients sont solvables et attentifs à leur image (loyers de 250 à 380 MAD/m²/mois à CFC). La réforme du classement hôtelier et l'échéance 2030 jouent aussi. Les contrats sont récurrents.
-   - Offre [E] : un contrat trimestriel de vitres, avec du solaire thermique et des façades en vente additionnelle. Pour les hôtels de Marrakech et d'Agadir, il faut viser les passages après les épisodes de sable.
+### 7.1 Concurrents qui nettoient déjà par drone (Maroc et Maghreb)
+
+| Acteur | Pays | Offre | Statut |
+|---|---|---|---|
+| **Drone Clean Morocco** (Casablanca) | Maroc | Vitres et façades de grande hauteur par drone. Aucun avis client ni tarif publié. | [S] [Telecontact](https://www.telecontact.ma/annonceur/drone-clean-morocco/9052694/casablanca.php) |
+| **DR Stone** | Maroc | Inspection de parcs solaires par drone et IA (détection des défauts). Ne nettoie pas. | [S] [drstone.ma](https://www.drstone.ma/en/copy-of-accueil) |
+| **Farasha** (start-up) | Maroc | Analyse de centrales solaires (fuites thermiques, besoin de nettoyage) par véhicule ou drone | [S] [Circle Economy](https://knowledge-hub.circle-economy.com/article/8211), [Afrik 21](https://afrik21.africa/en/pollutec-maroc-cleantech-ingenuity-of-moroccan-startups-rewarded/amp) |
+| CleanEdge (Rabat), Solar Energy Cleaning (Kénitra) | Maroc | Nettoyage solaire classique, sans drone mentionné | [S] [Kerix](https://www.kerix.net/en/annuaire-entreprise/solar-energy-cleaning) |
+| Max Multimedia (Alger) | Algérie | Façades et vitres, sans drone | [S] [Ouedkniss](https://www.ouedkniss.com/store/9010/max-multimedia-staoueli/annonce/55728139) |
+| Tunisie | — | Aucun prestataire de nettoyage par drone trouvé. Les drones n'y servent qu'en agriculture. | [S] [Africanews](https://www.africanews.com/2023/12/04/tunisia-maghreb-farmers-embrace-drones-to-fight-climate-change) |
+
+Les recherches en arabe (« تنظيف بالدرون ») ne trouvent que des **robots** de recherche, comme celui de l'université de Fès ([Attaqa](https://attaqa.net/2023/03/26/%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d8%b9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%b1%d9%88%d8%a8%d9%88%d8%aa-%d9%84%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%a7%d9%84%d8%a3%d9%84%d9%88%d8%a7%d8%ad-%d8%a7%d9%84%d8%b4/)). Aucune offre commerciale de nettoyage par drone n'apparaît.
+
+**Lecture** : au Maroc, il y a **un seul concurrent direct visible** (Drone Clean Morocco, sur les façades et vitres à Casablanca). Il n'y a **aucun concurrent visible sur le nettoyage solaire par drone**. Les acteurs proches font de l'inspection (DR Stone, Farasha) : ce sont des partenaires possibles plutôt que des rivaux. Le marché est donc à créer, et c'est au client de former la demande.
+
+**Acteurs étrangers à surveiller [S]** :
+- France : franchises MéthoDrone et Dropdrone, ainsi que TY Drone, Aéropur et Bati Drone Services ([L'Express Franchise](https://lexpress-franchise.com/actualites/methodrone-nettoie-toitures-et-facades-compte-plusieurs-agences-franchisees/), [Toute la franchise](https://www.toute-la-franchise.com/franchise/ty-drone)). Une franchise pourrait s'implanter au Maroc.
+- Israël : Solar Drone, rachetée 21,6 M USD par VisionWave en 2025, avec des drones qui nettoient les panneaux ([Solar Builder](https://solarbuildermag.com/operations-maintenance/solar-panel-cleaning-drone-in-development-via-airobotics-solar-drone/)).
+- Afrique du Sud : KTV Working Drone annonce **1 200 m²/h** sur du PV ([KTV](https://ktvworkingdrone.com/tag/solar-panel/)).
+- Dubaï : façades du Dubai Mall et pilote de la RTA sur les stations de métro ([DroneXL](https://dronexl.co/2024/05/28/drones-window-cleaning-dubai-mall), [Zawya](https://www.zawya.com/en/business/transport-and-logistics/dubai-rta-pilots-drone-technology-to-clean-facades-of-metro-and-tram-station-f281zl1d)). Zenatech y lance une offre « drone as a service » ([Zenatech](https://www.zenatech.com/zenatech-expands-drone-as-a-service-daas-exterior-building-power-washing-to-dubai-tapping-into-a-global-drone-cleaning-services-market-growing-to-usd-13-billion-by-2030/)).
+
+### 7.2 Prix de référence à l'étranger
+
+| Prestation | Prix | Pays | Source |
+|---|---|---|---|
+| Nettoyage extérieur par drone (façades, toitures) | 0,25 à 0,45 $/pied², soit environ **2,7 à 4,8 $/m²** (conversion faite par moi) | États-Unis | [S] [LucidBots](https://lucidbots.com/blog/drone-cleaning-pricing-per-square-foot) |
+| Démoussage de toiture par drone | **8 à 20 €/m²**, soit 30 à 50 % de moins qu'un brossage manuel avec échafaudage | Belgique | [S] [Bobex](https://www.bobex.be/fr-be/demoussage-toitures/drone/) |
+| Nettoyage de façade, toutes méthodes | 5 à 65 €/m² | France | [S] [Obat](https://travaux.obat.fr/guides/tarif-facadier) |
+| Nettoyage de façade | 5 à 110 €/m² | Belgique | [S] [TrustUp](https://blog.trustup.be/fr/prix-nettoyage-facade/) |
+| Vitres à Dubaï, sans drone | 50 à 70 AED/h, minimum 300 AED | Émirats | [S] [DubaiClean](https://dubaiclean.com/professional-window-cleaning-cost) |
+| Nettoyage solaire, sans drone | 20 à 240 € forfait (Catalogne) | Espagne | [S] [Fixando](https://www.fixando.es/en/limpieza-o-revision-de-paneles-solares/precio/Cataluña) |
+| Thermographie PV par drone | à partir d'environ 750 € par site ; 1 800 à 2 750 €/jour (chiffre de 2017) | France / UE | [S] [Modèles de business plan](https://modelesdebusinessplan.com/blogs/infos/activite-drone-la-plus-rentable), [Aclima](https://aclima.eus/en/drone-based-pv-maintenance-is-thermographic-inspection-heating-up/) |
+| Gain d'une inspection aérienne | environ 1 915 $/MW d'économies potentielles | Émirats | [S] [Airscope](https://airscope.ae/aerospec-aerial-inspection-roi-1915-mw-in-potential-savings-2/) |
+| Débit d'un drone | 500 à 1 000 m²/h annoncés en façade ; 1 200 m²/h sur PV | — | [S] [Global Drone HQ](https://globaldronehq.com/blogs/news/building-facade-window-cleaning-drones-2026-contractors-guide), [KTV](https://ktvworkingdrone.com/tag/solar-panel/) |
+
+Aucun prix publié en **€/kWc** pour le nettoyage solaire par drone n'a été trouvé, ni en France, ni en Espagne, ni aux Émirats.
+
+**Fourchettes marocaines estimées pour le drone [E]** (à caler sur les devis réels de Drone Clean Morocco et de nettoyeurs classiques) :
+
+| Prestation par drone | Fourchette [E] |
+|---|---|
+| Lavage de façade (enduit, pierre, marbre, bardage) | 12 à 35 MAD/m² |
+| Vitres et murs-rideaux en hauteur | 8 à 25 MAD/m² vitré par passage |
+| Toiture PV industrielle | 10 à 25 MAD/kWc par passage |
+| Thermographie PV (rapport compris) | 2 000 à 5 000 MAD/MWc, minimum 3 000 MAD par site |
+| Blanchiment ou déblanchiment de serres | 1 500 à 4 000 MAD/ha |
+| Diagnostic photo de façade (dossier de conformité) | 1 500 à 5 000 MAD par immeuble |
+
+### 7.3 Avantage du drone par segment : où il gagne, où il perd
+
+| Segment | Verdict | Pourquoi |
+|---|---|---|
+| **Tours et immeubles sans nacelle** (R+5 à R+20) | **Gagne** | Pas d'échafaudage, pas de cordiste ni de location de nacelle. Le chantier se monte en quelques heures, sans risque de chute. Une grande partie du parc de Casablanca hors CFC n'a pas de nacelle d'entretien [E]. |
+| Tours de catégorie A avec nacelle (CFC) | **Neutre à perd** | La nacelle existe déjà et le gestionnaire a un contrat. Le drone sert de renfort ou pour les zones que la nacelle n'atteint pas (atriums, auvents, verrières). |
+| Vitres où l'on exige zéro trace | **Perd en partie** | Le drone pulvérise et rince (eau osmosée) mais ne raclette pas. C'est suffisant pour l'entretien régulier, moins bon pour une salissure lourde ou un premier nettoyage après chantier [E]. |
+| **Grandes toitures PV** (fibrociment, bac acier fragile) | **Gagne** | Personne ne marche sur le toit ou les panneaux, donc pas de casse ni de risque de chute. Pas besoin de lignes de vie, et le passage est rapide. C'est le meilleur cas d'usage. |
+| Toitures PV accessibles et planes, avec allées | **Neutre** | Une équipe au sol avec perche et brosse rotative peut être aussi rapide et mieux nettoyer une salissure collante (sel, pollution industrielle) [E]. Le drone sert d'argument de vente et de sécurité. |
+| **Serres** (Souss, Chtouka) | **Gagne nettement** | Appliquer et retirer le blanchiment par drone est déjà courant en Europe et aux États-Unis ([HortiDaily](https://www.hortidaily.com/article/9734961/uk-new-greenhouse-roof-cleaning-drone-service-launched), [Fair Lifts](https://www.fairlifts.com/fairlifts-projects/fair-lifts-partners-with-dalsem-for-pioneering-us-greenhouse-shading-drone-application/)). Personne ne marche dans les chéneaux ([HortiDaily](https://www.hortidaily.com/article/9603960/no-one-has-to-risk-their-life-ever-again-by-walking-through-the-thin-gutter-on-a-greenhouse-roof/)). Limite : on manque de preuves indépendantes sur l'enlèvement des salissures lourdes. |
+| **Centrales** (Noor, MASEN, plus de 100 MW) | **Perd en nettoyage, gagne en inspection** | À cette échelle, les robots à sec et les camions coûtent moins cher (1 430 robots à Noor Abu Dhabi, [Noor Abu Dhabi](https://noorabudhabi.ae/plants/robotic-cleaning-system/)), et le tuyau limite le rayon d'action. La thermographie par drone, elle, est la norme du marché. |
+| **Façades : lavage, pierre, marbre, avant ravalement** | **Gagne** | L'arrêté de Casablanca impose un nettoyage périodique pour la pierre et le marbre (voir 2.3). Le drone fait ce lavage sans échafaudage, et la rue reste ouverte. |
+| Façades : ravalement complet (enduit, réparations, peinture) | **Perd** | Les réparations demandent un échafaudage. Le drone ne fait que la préparation (lavage) et le contrôle. Des drones de peinture existent mais ne sont pas courants [E]. |
+| Villas | **Neutre** | Une échelle ou une perche suffit. Le drone y est un argument de prestige. |
+| Hôtels (verrières, dômes, façades d'Agadir et Marrakech) | **Gagne en partie** | Le drone est utile pour les verrières et les grandes façades vitrées, et les travaux sont courts et discrets pour les clients. Pour les riads, il n'apporte presque rien. |
+| Malls (verrières, enseignes, totems) | **Gagne** | Les grandes verrières sont difficiles d'accès, et l'on peut intervenir de nuit ou avant l'ouverture. |
+
+**Risques propres au drone** :
+- **Réglementation [S]** : l'arrêté de 2015 réserve l'usage aux professionnels, avec une autorisation des ministères de l'Intérieur et du Commerce. L'import est aussi soumis à autorisation ([TelQuel](https://telquel.ma/2015/02/26/les-importations-lutilisation-drones-strictement-encadrees_1436060), [Bladi](https://www.bladi.net/conditions-importations-drones-maroc,91285.html)). Un nouveau cadre réglementaire était en cours de finalisation fin 2025 ([Le360](https://fr.le360.ma/economie/le-maroc-sapprete-a-lancer-une-filiere-industrielle-innovante-les-drones-civils_A5OHX3GYH5CLRERZYOCTIGWGA4/), [L'Économiste](https://weekly.leconomiste.com/civilian-drone-industry-preparing-for-takeoff/)). Sa publication n'est pas confirmée. Voler en ville, près des aéroports, des sites sensibles ou des zones franches peut être bloqué. **C'est le risque n° 1 pour le marché, mais aussi une barrière à l'entrée si le client obtient ses autorisations.** Le détail opérationnel relève d'un autre agent.
+- **Vent [E]** : Tanger (chergui et levant), la côte atlantique et les rafales des tempêtes de sable (70 à 80 km/h, DGM) réduisent les jours où l'on peut voler. Les épisodes de poussière, qui créent la demande, sont aussi les jours où l'on ne vole pas. Il faut prévoir l'intervention après l'épisode.
+- **Hauteur [E]** : le tuyau alimenté depuis le sol limite la hauteur utile, en pratique quelques dizaines de mètres. Les très grandes tours (CFC, Tour Mohammed VI) restent à la nacelle ou au cordiste.
+- **Acceptation [E]** : les syndics et les gestionnaires redoutent les dégâts aux vitres et la vie privée des résidents. Il faut une assurance responsabilité civile adaptée et des démonstrations.
+
+### 7.4 Nouvelles niches ouvertes par le drone
+
+1. **Thermographie infrarouge et nettoyage solaire combinés** : on vend un « contrat de performance ». Il comprend une inspection IR, un nettoyage, un rapport avant/après et la liste des modules défectueux (points chauds, diodes). Les inspecteurs (DR Stone, Farasha) ne nettoient pas, et les nettoyeurs n'inspectent pas : **le client serait seul à faire les deux.** C'est aussi la seule porte d'entrée réaliste vers les centrales (inspection, pas nettoyage).
+2. **Blanchiment et déblanchiment des serres du Souss** : environ 28 000 ha de primeurs ([Medias24](https://medias24.com/2024/04/29/siam-dans-le-souss-la-campagne-agricole-est-placee-sous-le-signe-de-la-resilience/)). Environ 1 500 ha de serres ont été touchés par les vents de février 2026 ([maroc.ma](https://maroc.ma/fr/actualites/chtouka-ait-baha-le-ministre-de-lagriculture-en-visite-de-terrain-pour-levaluation-des-degats-causes)). La surface totale de serres n'est pas sourcée ; je l'estime à environ 15 000 à 25 000 ha [E]. Le travail est saisonnier : on applique au printemps et on retire en automne, ce qui comble le creux solaire d'octobre à novembre. Les clients sont des exportateurs solvables.
+3. **Diagnostic de façade par drone pour l'arrêté de Casablanca** : photos haute définition, état de la façade, devis et preuve des travaux pour la commune. C'est un produit d'appel peu cher qui alimente les ventes de lavage et de ravalement.
+4. **Panneaux solaires sur les ombrières de parkings, malls et stades** : surfaces difficiles d'accès au-dessus des voitures ou du public. Les stades de la CAN 2025 et du Mondial 2030 ont aussi des couvertures et des façades à entretenir [E].
+5. **Inspection de toitures et de façades pour les assureurs et les syndics** (fissures, étanchéité) : une vente additionnelle simple avec le même drone équipé d'une caméra [E].
+6. **Nettoyage de grandes enseignes, totems, réservoirs et silos industriels** [E].
 
 ---
 
-## 8. Note de potentiel par service
+## 8. Les 3 meilleures niches pour démarrer (version drone)
 
-| Service | Note /10 | Justification courte |
-|---|---|---|
-| **Nettoyage de panneaux solaires** | **8/10** | Le parc grandit vite, la loi 82-21 est active, le retour sur investissement est démontrable et la concurrence est faible. Freins : peu de culture de l'externalisation, nettoyage fait en interne, clients agricoles dispersés. |
-| **Façades (nettoyage et ravalement)** | **7,5/10** | La réglementation de Casablanca crée une demande obligatoire, et le Mondial 2030 s'ajoute. Freins : le statut de l'arrêté reste à confirmer, la partie peinture est très concurrentielle, et les syndics ont des difficultés de paiement. |
-| **Nettoyage de vitres** | **6,5/10** | Le marché est récurrent et stable, mais fragmenté et en partie capté par le *facility management*. La marge se trouve sur le travail en hauteur. C'est un bon complément pour répartir les équipes en dehors des pics solaires. |
+1. **Toitures PV industrielles : nettoyage par drone et thermographie (Tanger, Kénitra, Casablanca)**
+   - Pourquoi : le drone gagne nettement sur les toits fragiles, et personne d'autre ne propose le nettoyage solaire par drone au Maroc. La thermographie fait monter le panier moyen et rend la perte de production visible, de 6 à 15 % (voir section 5).
+   - Offre [E] : un contrat annuel de 4 à 6 nettoyages et 1 à 2 inspections IR, avec un rapport de production.
+   - Canaux : EPC et installateurs (sous-traitance de l'O&M), associations des zones franches. Un partenariat avec DR Stone ou Farasha est possible.
 
-**Points à valider en priorité** :
-1. Obtenir 10 à 15 devis mystère pour fixer les prix en MAD.
-2. Confirmer le texte définitif de l'arrêté de Casablanca sur les façades.
-3. Obtenir les chiffres ANRE et AMEE du parc distribué par région.
-4. Mener 5 entretiens avec des responsables de sites industriels de Tanger et Kénitra sur leur pratique actuelle de nettoyage.
+2. **Façades et vitres en hauteur à Casablanca, sur les immeubles sans nacelle (R+5 à R+20)**
+   - Pourquoi : c'est une demande réglementaire (arrêté sur le ravalement, nettoyage obligatoire de la pierre et du marbre). Le drone évite l'échafaudage pour le lavage. Il y a un seul concurrent drone visible.
+   - Offre [E] : diagnostic drone (produit d'appel), puis lavage de façade, puis contrat vitres trimestriel. Le ravalement avec peinture se sous-traite à un façadier partenaire.
+   - Cibles : syndics, bailleurs institutionnels, hôtels et immeubles de bureaux hors CFC.
+
+3. **Serres du Souss-Massa (Chtouka, Agadir) : blanchiment, déblanchiment et lavage**
+   - Pourquoi : c'est le cas où l'avantage du drone est le plus net (pas de travail dans les chéneaux, rapidité à l'hectare). Le volume est important et les clients sont des exportateurs. La saisonnalité complète celle du solaire. Le pompage solaire de la même région peut se vendre en plus.
+   - Risque : la concurrence des drones agricoles de pulvérisation. Il faut une offre « serre » complète (produit, application, retrait, lavage du PV).
+
+Ce qui disparaît du top 3 : les tours de catégorie A et les hôtels haut de gamme. Ils deviennent des cibles secondaires : la nacelle existe déjà, la hauteur est trop grande pour un drone à tuyau, et les contrats sont déjà en place.
+
+---
+
+## 9. Note de potentiel par service (révisée pour le drone)
+
+| Service | Note initiale | **Note avec drone** | Justification |
+|---|---|---|---|
+| Nettoyage de panneaux solaires | 8/10 | **8,5/10** | Aucun concurrent drone au Maroc, le drone est le meilleur outil sur les toits fragiles, et la thermographie s'ajoute à l'offre. Le drone n'est pas compétitif sur les centrales pour le nettoyage. |
+| Façades (nettoyage et ravalement) | 7,5/10 | **8/10** | Le drone convient au nettoyage obligatoire de la pierre et du marbre à Casablanca et supprime l'échafaudage pour le lavage. Il ne fait pas de ravalement complet (sous-traitance). |
+| Nettoyage de vitres | 6,5/10 | **6,5/10** | Le drone gagne sur les immeubles moyens sans nacelle, mais perd sur la qualité sans trace et sur les très grandes tours. Le vol en ville est contraint, et Drone Clean Morocco est déjà présent. |
+| *Nouveau* : thermographie et inspection par drone | — | **7/10** | Le besoin est réel et c'est la seule porte vers les centrales. Il y a déjà des acteurs (DR Stone, Farasha). C'est une vente additionnelle plus qu'un métier autonome. |
+| *Nouveau* : serres (blanchiment et lavage) | — | **7/10** | L'avantage du drone y est le plus net et le volume est fort dans le Souss. La surface n'est pas sourcée et les drones agricoles font concurrence. |
+
+**Avertissement transversal** : toutes les notes supposent que le client **obtient les autorisations de vol professionnelles**. Sans autorisation en zone urbaine, il faut retirer environ 2 points aux façades et aux vitres. Le solaire en zone industrielle et les serres en zone agricole sont moins exposés.
+
+**Points à valider en priorité (mis à jour)** :
+1. Faire 5 à 10 devis mystère, dont un chez Drone Clean Morocco, pour fixer les prix en MAD.
+2. Vérifier le statut du nouveau cadre réglementaire des drones (DGAC) et les délais d'autorisation.
+3. Confirmer le texte définitif de l'arrêté de Casablanca sur les façades.
+4. Mener 5 entretiens avec des sites industriels de Tanger et Kénitra, et 5 avec des exploitants de serres du Chtouka.
+5. Obtenir la surface de serres du Souss auprès de l'ORMVA Souss-Massa.

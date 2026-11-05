@@ -21,6 +21,7 @@
 | Rejets d'eaux de lavage et produits chimiques | Bonnes pratiques + autorisation si rejet au réseau ou au milieu | Gestionnaire du réseau (SRM, régie ou délégataire), Agence du bassin hydraulique, commune |
 | Accès aux sites solaires et industriels | **Par client** | Masen, ONEE, OCP et industriels : qualification fournisseur et dossier HSE |
 | Marchés publics | Facultatif (pour cette clientèle) | Portail marchespublics.gov.ma, Trésorerie générale ; Ministère de l'Équipement (qualification BTP) |
+| **Drones (nettoyage par drone)** — **point le plus critique**, voir § 1.7 | **Oui, bloquant** : pas de drone sans licence d'import, et pas de vol sans autorisation par mission | Ministère de l'Industrie et du Commerce (licence d'import, sur avis du **Ministère de l'Intérieur**, qui décide), Douane, ANRT (fréquences), autorité locale (wilaya, préfecture, caïdat) pour chaque vol, **DGAC** (futur certificat d'exploitant) |
 
 ---
 
@@ -92,6 +93,77 @@ Légende des délais et coûts : ordre de grandeur indicatif. DH = dirham maroca
 | Dossier administratif type pour chaque appel d'offres | Décret 2-22-431 (art. 28 sur les capacités : attestation CNSS de moins d'un an, attestation fiscale…) | Maître d'ouvrage (commune, ministère, établissement public) | Par appel d'offres | Caution provisoire selon l'appel d'offres | Déclaration sur l'honneur, attestation fiscale (DGI), attestation CNSS, RC, caution provisoire, références techniques |
 | **Certificat de qualification et de classification** (marchés de **travaux** : ravalement, peinture, étanchéité) | Décret 2-94-223 (système de qualification et de classification des entreprises du BTP) **[à vérifier : numéro, une réforme est annoncée]** ; arrêtés sectoriels | **Ministère de l'Équipement et de l'Eau**, Commission nationale de qualification et de classification ; dépôt en ligne **[à vérifier : portail]** | 1 à 3 mois **[à vérifier]** | Faible | Bilans, chiffre d'affaires, effectifs CNSS, matériel, références et attestations de bonne exécution, diplômes de l'encadrement. Secteur cité dans un règlement de consultation de 2025 : **secteur Q (peinture), qualification Q1, classe 2** pour les débutants |
 | Marchés de **services de nettoyage** (vitres, locaux) | Décret 2-22-431. Aucun certificat de qualification national obligatoire trouvé pour le nettoyage : seuls les dossiers administratifs et techniques sont demandés **[à vérifier]** | Maître d'ouvrage ; contrôle de l'Inspection générale des finances (respect du SMIG, déclarations CNSS) | — | — | Respect du **SMIG** et des déclarations CNSS (point contrôlé de près dans le gardiennage et le nettoyage) |
+
+### 1.7 Drones : nettoyage de façades, de vitres et de panneaux solaires par drone (POINT CRITIQUE)
+
+#### 1.7.1 Où en est le droit (novembre 2026)
+
+- **Régime en vigueur : interdiction de principe, avec dérogation au cas par cas.** L'**arrêté n° 386-15 du 6 février 2015** (ministre délégué au Commerce extérieur, BO n° 6337 du 23/02/2015) soumet à **licence préalable** l'importation des « engins volants sans pilote ». Dans la pratique, ce texte a fermé l'accès aux particuliers et réservé les drones à un **usage purement professionnel**, autorisé par les ministères du Commerce et de l'Intérieur. Les drones importés ou utilisés sans autorisation sont **saisis**.
+- **Chiffres officiels** (ministre de l'Intérieur au Parlement, mars 2022) : de 2015 à 2022, **329 licences d'importation permanente** et **287 autorisations d'importation temporaire** ont été accordées, soit 616 au total, à des administrations et à des entreprises (production audiovisuelle, topographie, inspection d'infrastructures).
+- **Loi 40-13 portant Code de l'aviation civile** (dahir 1-16-61 de 2016) : c'est la loi-cadre de l'aviation civile, appliquée notamment par le décret 2-22-191 sur la navigation aérienne. **Je n'ai trouvé aucun décret d'application spécifique aux aéronefs télépilotés qui soit en vigueur.** Le « décret 2-16-122 » mentionné dans certaines sources n'a pas pu être vérifié.
+- **Assouplissement en cours, non publié à ce jour** : le **projet de décret sur les drones civils** préparé par la **DGAC** a été transmis au Secrétariat général du gouvernement (presse du 27-28 octobre 2025). Son contenu :
+  - **certificat DGAC** obligatoire pour tout concepteur, fabricant, mainteneur et **exploitant** de drones, ainsi que pour les **télépilotes** ;
+  - certificat **suspendu ou retiré** en cas de manquement ;
+  - un **arrêté d'application** (encore en cours de finalisation) fixera l'**immatriculation**, le **marquage** des drones et l'**enregistrement des exploitants** ;
+  - déclaration des incidents et accidents **sous 72 h** ;
+  - exigences techniques : bruit, compatibilité électromagnétique, spectre radio ;
+  - ouverture encadrée à l'usage de loisir.
+  **Je n'ai trouvé aucune trace d'adoption en Conseil de gouvernement ni de publication au BO au 5 novembre 2026** (le Legal Data Hunter, source SGG-BO, et la recherche web ne renvoient rien) **[à vérifier en priorité, agent 4 : SGG et DGAC]**.
+- **Conséquence pour le client** : il faut aujourd'hui raisonner selon le **régime de 2015** (licence d'import et autorisation de vol par mission), tout en préparant le futur dossier de **certification d'exploitant DGAC**, qui deviendra probablement obligatoire après la publication du décret et de son arrêté.
+
+#### 1.7.2 Tableau des démarches drones
+
+| Démarche | Texte de loi | Administration | Délai | Coût | Documents requis |
+|---|---|---|---|---|---|
+| **Licence d'importation permanente** du drone (et des pièces radio) | Arrêté 386-15 du 06/02/2015 (BO 6337) ; loi 13-89 relative au commerce extérieur | **Ministère de l'Industrie et du Commerce** (Direction générale du Commerce), demande sur **PortNet** ; avis de l'**ANRT** sur les fréquences ; **avis du Ministère de l'Intérieur, qui décide** | Plusieurs semaines à plusieurs mois ; refus possible sans motif détaillé **[à vérifier]** | Pas de frais de licence connus ; droits de douane et TVA à l'import | **Fiche d'information officielle « Importation des engins volants sans pilote »** : société (date de création, effectif, activité), **destination finale justifiée** (ventes, distribution, marché public…), marque, type et modèle, point focal ; **tableau des interfaces radio** (radiocommande, vidéo, localisation : bandes émission et réception, puissance) ; **documentation technique** en français ou en anglais pour l'ANRT ; **certificat ou déclaration de conformité** ; historique des importations (DUM) ; déclaration sur l'honneur signée du représentant légal |
+| **Importation temporaire** (démonstration, essai, drone loué à l'étranger) | Arrêté 386-15 ; code des douanes | **Administration des douanes et impôts indirects (ADII)**, sur avis du Ministère de l'Intérieur | Semaines **[à vérifier]** | Caution ou garantie douanière | Même logique, plus le contrat et la durée |
+| **Dédouanement** | Code des douanes | **ADII** | À l'arrivée | Droits et TVA | Licence d'import, facture, DUM. **Sans licence, le drone est saisi à la frontière** |
+| **Conformité radio** (télécommande 2,4 / 5,8 GHz, liaison vidéo, GNSS) | Loi 24-96 relative à la poste et aux télécommunications (homologation des équipements radio) | **ANRT** (avis pendant l'instruction de la licence ; agrément d'homologation si l'équipement n'est pas déjà agréé) **[à vérifier : le drone a-t-il besoin d'un agrément ANRT distinct ?]** | Inclus dans l'instruction, ou quelques semaines | Frais d'agrément ANRT éventuels | Fiches techniques radio, rapports de tests et déclaration de conformité (CE/RED, FCC) |
+| **Immatriculation du drone et enregistrement de l'exploitant** | **Projet** de décret DGAC et de son arrêté (non publiés) ; loi 40-13 | **DGAC** (Ministère du Transport et de la Logistique) | — (pas encore ouvert) | — | À anticiper : numéro de série, marquage, propriétaire. **Aujourd'hui, c'est la licence d'import qui sert de traçabilité** |
+| **Certificat ou licence de télépilote** | Projet de décret DGAC ; aucun brevet marocain obligatoire en vigueur trouvé | DGAC (futur) ; aujourd'hui, l'autorité locale examine l'identité et la compétence du pilote | Formation de quelques jours | Formation à l'étranger (certificat UE A2/STS, par exemple) ou chez le constructeur **[à vérifier : organismes au Maroc]** | Attestation de formation, CIN, casier judiciaire (souvent demandé par l'Intérieur) **[à vérifier]** |
+| **Agrément ou certificat d'exploitant commercial** | Projet de décret DGAC (« certificat » pour les exploitants) | **DGAC** (futur) | — | — | Manuel d'exploitation, analyse de risques, assurance, maintenance. **À préparer dès maintenant** pour être parmi les premiers certifiés |
+| **Autorisation de vol PAR MISSION** | Régime de 2015 (autorisation spécifique de l'autorité locale pour chaque utilisation) ; loi 40-13 (espace aérien) | **Autorité locale** : **wilaya ou préfecture** (Division des affaires générales / service de l'Intérieur), qui consulte la **DGSN** en ville, la **Gendarmerie Royale** hors agglomération et, selon la zone, les **Forces Armées Royales** (Forces Royales Air) ; **DGAC** et ONDA près d'un aérodrome ou au-delà de 150 m (règle citée en 2015) | **7 à 10 jours** selon un prestataire en 2026 ; 30 jours de préavis sont exigés pour d'autres aéronefs de loisir (montgolfières) | Pas de frais connus | Lieu exact (adresse, coordonnées, emprise), date et créneau, **objet de la mission**, identité de l'exploitant, du **télépilote** et du **drone** (numéro de série, licence d'import), **attestation d'assurance RC**, **accord écrit du propriétaire ou du syndic**. Tout changement de date ou de site demande une nouvelle autorisation. **Avoir l'autorisation écrite en main avant de décoller** |
+| Prise de vues ou images aériennes pendant la mission | Si l'on diffuse des images ou vidéos (marketing) : **Centre cinématographique marocain (CCM)** pour les tournages ; loi 09-08 (données personnelles : visages, intérieurs visibles par les vitres) | CCM ; **CNDP** | — | — | Désactiver ou flouter les images. Le nettoyage n'exige pas d'enregistrer de vidéo |
+| **Assurance RC aéronef ou drone** | Loi 40-13 (responsabilité de l'exploitant envers les tiers au sol) ; contrats | Assureur agréé (ACAPS) | — | Prime spécifique drone **[à vérifier]** | Spécifications du drone, type de mission, zones |
+| Accès aux sites industriels et solaires par drone | Contractuel, en plus du régime public | Masen, exploitant O&M, ONEE, OCP, industriel | Semaines | — | Autorisation de vol publique, plan de prévention, analyse de risques, périmètre d'exclusion au sol |
+
+#### 1.7.3 Zones interdites ou très sensibles
+
+- **Abords des aéroports et aérodromes** (zones de contrôle ONDA, couloirs d'approche) : interdiction sauf accord de la DGAC et de l'ONDA. Casablanca (Mohammed V, Tit Mellil), Rabat-Salé, Marrakech, Agadir, Tanger, Fès-Saïss, Ouarzazate (proche de Noor) : **à vérifier pour chaque mission**.
+- **Palais royaux et résidences royales, sites militaires, casernes, prisons, bâtiments officiels** (préfectures, ministères, Parlement) : interdiction de fait. Un survol du palais royal de Rabat par un drone a déjà provoqué une alerte sécuritaire.
+- **Ports, barrages, installations énergétiques stratégiques** : autorisation de l'exploitant **et** de l'Intérieur. Les centrales Masen sont des sites sensibles.
+- **Médinas** : je n'ai trouvé **aucune interdiction textuelle propre aux médinas**. En pratique, la densité de piétons, les sites classés (UNESCO à Fès, Marrakech, Rabat, Tétouan, Essaouira, Meknès) et la proximité des palais rendent un refus de l'autorité locale **très probable** **[à vérifier auprès des wilayas]**.
+- **Survol de personnes et de rassemblements** : à exclure. Il faut un **balisage au sol** du périmètre (et parfois une autorisation d'occupation du trottoir, voir § 1.2).
+
+#### 1.7.4 Drone de nettoyage (captif, relié par un tuyau, faible altitude) : existe-t-il un régime allégé ?
+
+- **Aucun régime allégé n'existe aujourd'hui en droit marocain** pour les drones captifs ou reliés par tuyau. Le texte de 2015 vise tout « engin volant sans pilote » : le drone de nettoyage reste un drone. Il faut donc une licence d'import et une autorisation de vol, même s'il vole à 5 m d'une façade.
+- **Arguments à faire valoir dans les demandes** pour obtenir des autorisations plus rapides, voire des autorisations cadres par site ou par période **[à négocier]** :
+  - le vol est **captif** : tuyau et câble d'alimentation au sol, le drone ne peut pas s'éloigner ;
+  - il se fait en **vue directe**, à **faible hauteur** (sous le haut du bâtiment), dans une emprise balisée et sur une propriété privée ;
+  - il n'y a **pas de caméra d'enregistrement**, ou elle est désactivée ;
+  - **aucune charge n'est larguée**, il n'y a que de l'eau osmosée ou un produit biodégradable ;
+  - une **autorisation récurrente** sur le même site est possible (par exemple un parc solaire nettoyé chaque mois).
+- **Futur régime DGAC** : le projet de décret fixe des conditions selon les risques. Une catégorie d'opérations « à faible risque » pourrait voir le jour dans l'arrêté **[à suivre]**.
+- **Plan B à présenter au client** : perches télescopiques à eau pure, nacelles, cordistes et robots de nettoyage PV (au sol, sans vol) **ne relèvent pas du régime des drones**. Le client peut démarrer avec ces moyens pendant que les licences sont instruites.
+
+#### 1.7.5 Délais et coûts réalistes
+
+| Étape | Délai réaliste | Coût |
+|---|---|---|
+| Préparer le dossier d'import (fiche, documents techniques, conformité radio) | 1 à 2 semaines | Temps interne, éventuellement un transitaire |
+| Instruction de la licence d'import (Commerce, ANRT, Intérieur) | **1 à 4 mois**, sans garantie **[à vérifier]** | Pas de frais de licence connus |
+| Dédouanement | Quelques jours | Droits et TVA (20 %) sur la valeur du drone. Un drone de nettoyage professionnel coûte souvent 150 000 à 600 000 DH **[à vérifier : devis fournisseurs]** |
+| Autorisation de vol par mission | **7 à 10 jours** (prestataire, 2026), parfois plus en zone sensible | Pas de frais connus |
+| Futur certificat d'exploitant DGAC | Inconnu (texte non publié) | Inconnu |
+| **Délai total avant le premier vol commercial** | **2 à 6 mois** en partant de zéro, si la licence d'import est accordée | — |
+
+#### 1.7.6 Entreprises marocaines déjà actives (exemples, sans vérification de leurs autorisations)
+
+- **Drone Clean Morocco** (SARL AU, Casablanca, créée en 2024, RC Casablanca 628369) : « nettoyage des vitres et façades de grande hauteur à l'aide de drones », selon l'annuaire Télécontact. C'est un **concurrent direct**. Je n'ai trouvé aucune mention publique d'un agrément.
+- **DR Stone** (drstone.ma) : inspection thermique par drone sur le complexe **Noor Ouarzazate**. L'entreprise a donc obtenu des autorisations d'import et de vol sur un site Masen. C'est un exemple de précédent dans le solaire.
+- Les sociétés de production audiovisuelle et de topographie (par exemple Adkey Prod) obtiennent régulièrement des autorisations de vol par wilaya. Elles peuvent servir de **référence de procédure**.
+- **Aucune entreprise disposant d'un « agrément DGAC d'exploitant drone » n'a été trouvée** : ce statut n'existe pas encore tant que le décret n'est pas publié.
 
 ---
 
