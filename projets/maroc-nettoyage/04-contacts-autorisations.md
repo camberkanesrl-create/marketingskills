@@ -2,6 +2,7 @@
 
 **Projet** : entreprise de nettoyage de vitres, de nettoyage de panneaux solaires et de ravalement de façade (Casablanca, Rabat, Marrakech, Tanger, Agadir).
 **Rédigé le** : 5 novembre 2026. Rédigé par l'agent 4. Les démarches elles-mêmes sont décrites dans le livrable 03 de l'agent 3.
+**Mise à jour** : ajout du bloc Drones (section 6).
 
 > **Statut : brouillon à valider par le client.** Rien n'a été envoyé : aucun email, message, formulaire ni brouillon Gmail.
 > Toutes les coordonnées sont **institutionnelles et publiques**. Le document ne contient aucune donnée personnelle.
@@ -221,3 +222,190 @@ Version courte en darija pour le standard : « السلام عليكم، أنا 
 4. Les directions régionales de l'emploi et les inspections du travail des 5 villes, à chercher sur emploi.gov.ma.
 5. L'URL de DeQCA et l'email du secrétariat de la commission de qualification et de classification.
 6. Les numéros de niveau C (annuaires tiers), à vérifier avant de les utiliser.
+
+---
+
+## 6. Bloc Drones (le client nettoie par drone)
+
+> Mêmes règles que plus haut : coordonnées institutionnelles publiques uniquement, « à confirmer » quand l'information est introuvable, **aucun envoi**.
+> **Avertissement réglementaire.** Au Maroc, l'importation, la détention et l'utilisation d'un drone sont **en principe interdites**, sauf autorisation accordée au cas par cas. L'importation exige une licence préalable (arrêté n° 386-15 de février 2015), délivrée après **avis du Ministère de l'Intérieur**. Chaque utilisation demande ensuite une autorisation de l'autorité locale (wilaya ou préfecture). Seules les **personnes morales** (sociétés, organismes publics) peuvent déposer une demande. Un projet de décret de la DGAC sur la certification et l'immatriculation des drones et des exploitants a été signalé par la presse : son adoption est **à confirmer**. L'agent 3 doit en vérifier le statut. Sources : [TelQuel 2015](https://telquel.ma/2015/02/26/les-importations-lutilisation-drones-strictement-encadrees_1436060), [Médias24 2015](https://medias24.com/2015/02/25/limportation-et-lutilisation-des-drones-soumise-a-autorisation-prealable/), [Bladi](https://www.bladi.net/conditions-importations-drones-maroc,91285.html), [le360, projet de décret](https://fr.le360.ma/economie/le-maroc-sapprete-a-lancer-une-filiere-industrielle-innovante-les-drones-civils_A5OHX3GYH5CLRERZYOCTIGWGA4/).
+
+### 6.1 Autorités
+
+| Organisme | Ville | Service | Adresse | Téléphone | Email / site | Objet de la demande | Fiab. | URL source |
+|---|---|---|---|---|---|---|---|---|
+| DGAC (Direction générale de l'Aviation civile), Ministère du Transport et de la Logistique | Rabat | Service des drones / aéronefs télépilotés : **nom exact à confirmer** | Avenue Azzaitoune, Hay Riad, B.P. 1073 Rabat Principal | +212 537 77 30 07 / +212 537 77 30 15 (fax +212 537 77 30 20) | Email : à confirmer. Site : aviationcivile.gov.ma (à confirmer) | Conditions d'agrément de l'exploitant et de qualification du télépilote. Règles de vol en zone urbaine et à proximité des aérodromes. Statut du projet de décret | B (eAIP, peut être ancien) | https://siamaroc.onda.ma/eaip/GEN/GEN1.1.pdf |
+| Ministère du Transport et de la Logistique, formulaires de l'aviation civile | Rabat | Procédures et formulaires de l'aviation civile (dont P-DSA-815-AIR-03, dont l'objet est à vérifier) | — | — | https://mtl.fornetmaroc.com (rubrique procédures et formulaires) | Vérifier s'il existe un formulaire de demande dédié aux drones | B | https://mtl.fornetmaroc.com/sites/default/files/procedure-formulaire/aviation-civile/P-DSA-815-AIR-03.pdf |
+| Ministère de l'Intérieur | Rabat | Avis sur l'importation et autorisation d'utilisation (le service compétent est à confirmer) | à confirmer | à confirmer | à confirmer | Circuit de la demande d'utilisation professionnelle. Délai (plusieurs semaines à plusieurs mois, selon la presse) | B (presse) | https://fr.le360.ma/politique/abdelouafi-laftit-616-drones-autorises-a-survoler-le-ciel-marocain-256247/ |
+| Wilaya de la région Casablanca-Settat / préfectures d'arrondissements | Casablanca | Division des affaires intérieures (DAI, intitulé à confirmer) | à confirmer | à confirmer | à confirmer | Autorisation de vol pour chaque chantier (adresse, date, périmètre) | — | à confirmer |
+| Wilaya de la région Rabat-Salé-Kénitra / préfecture de Rabat | Rabat | Idem | à confirmer | à confirmer | à confirmer | Idem | — | à confirmer |
+| Wilaya de la région Marrakech-Safi / préfecture de Marrakech | Marrakech | Idem | à confirmer | à confirmer | à confirmer | Idem, avec une vigilance particulière pour la médina et les sites touristiques | — | à confirmer |
+| Wilaya de la région Tanger-Tétouan-Al Hoceima / préfecture Tanger-Assilah | Tanger | Idem | à confirmer | à confirmer | à confirmer | Idem, plus les zones portuaires et franches (Tanger Med) | — | à confirmer |
+| Wilaya de la région Souss-Massa / préfecture Agadir Ida-Outanane | Agadir | Idem | à confirmer | à confirmer | à confirmer | Idem, plus les serres et le solaire agricole (provinces de Chtouka et Taroudant) | — | https://www.wadifapublic.ma/fr/recruteur/agadir-wilaya-de-la-region-souss-massa (existence seulement) |
+| ANRT (Agence nationale de réglementation des télécommunications) | Rabat | Homologation des équipements radioélectriques (radiocommande, liaison vidéo 2,4 / 5,8 GHz) | à confirmer | +212 537 71 84 00 (standard, source de 2018) | www.anrt.ma — email du service homologation : à confirmer | Le drone et sa radiocommande doivent-ils être homologués ? Si oui, quel dossier (décision ANRT/DG/N°12/23) et qui le dépose : importateur ou distributeur ? | B | https://cache.industry.siemens.com/dl/files/876/109767876/att_987548/v1/Morocco_certificate_RTU3031C_MDE_SIEM_1710_I_26-10-2018_until_25-10-2028.pdf ; https://www.tuv.com/regulations-and-standards/en/morocco-anrt-published-new-type-approval-system-for-terminal-equipment-and-radio-electrical-equipment.html |
+| ADII (Administration des Douanes et Impôts Indirects) | Rabat | Siège. Importation temporaire (demande déposée auprès de la douane) | Avenue Annakhil, centre des affaires, Hay Riad, 10000 Rabat | +212 537 57 90 00 (standard). Centre d'appel : 0801 00 70 00 (source tierce) | www.douane.gov.ma — email : à confirmer | Régime douanier, droits et taxes, pièces à présenter (licence d'importation). Risque de consignation pendant 45 jours sans licence | B | https://www.marocdroit.com/attachment/2610778 ; https://www.lesmre.com/fr/actualites/marhaba-2026-contacts-urgence-fondation-mohammed-v-foundation |
+| Ministère de l'Industrie et du Commerce, commerce extérieur | Rabat | Licence d'importation définitive, demandée via le portail **PortNet** (avis du Ministère de l'Intérieur) | à confirmer | à confirmer | www.mcinet.gov.ma ; portail PortNet (URL à confirmer) | Licence d'importation des drones (arrêté 386-15) | B | https://www.mcinet.gov.ma/sites/default/files/fiche_information_04-15.pdf ; https://www.bladi.net/conditions-importations-drones-maroc,91285.html |
+
+### 6.2 Formation de télépilote (aucune liste officielle de centres agréés trouvée)
+
+| Organisme | Ville | Service | Adresse | Téléphone | Email / site | Objet de la demande | Fiab. | URL source |
+|---|---|---|---|---|---|---|---|---|
+| DR Stone (Drone Stone Maroc) | à confirmer | Formation théorique et pratique de télépilote (agrément officiel non mentionné) | à confirmer | à confirmer | https://www.drstone.ma | Programme, durée, prix. Reconnaissance par la DGAC ou le Ministère de l'Intérieur | B (site de l'entreprise) | https://www.drstone.ma/en/formationdronepilote |
+| Droneway (distributeur officiel DJI au Maroc) | Casablanca | Centre de formation (le 2e a ouvert à Casablanca en 2021). Vente de matériel professionnel | 22, allée des Sauges (Souakenbi), Casablanca (annuaire, à confirmer) | +212 522 34 16 82 (annuaire, à confirmer) | https://droneway.ma — email général : à confirmer (pr@droneway.ma est réservé à la presse) | Formation de télépilote. Achat d'un drone de nettoyage avec licence d'importation gérée par le distributeur. Homologation ANRT | B/C | https://lematin.ma/journal/2021/droneway-distributeur-officiel-drones-dji-maroc/350775.html ; https://www.kerix.net/fr/annuaire-entreprise/droneway |
+| Académie de drones (exercice African Lion, Agadir) | Agadir | Militaire, **non ouverte aux civils** | — | — | — | Sans objet (cité pour éviter toute confusion) | B | https://fr.le360.ma/politique/african-lion-une-premiere-academie-de-drones-a-agadir-plus-de-20-militaires-de-4-pays-formes_7Z6VBN6GIFEVFBHQW6IKY2ZO5M/ |
+
+### 6.3 Associations et partenaires ou sous-traitants possibles
+
+Aucun registre public des « opérateurs drones agréés » n'a été trouvé. **Avant tout partenariat, il faut demander à chaque entreprise la copie de ses autorisations** (licence d'importation, autorisation d'utilisation, assurance).
+
+| Organisme | Ville | Service | Adresse | Téléphone | Email / site | Objet de la demande | Fiab. | URL source |
+|---|---|---|---|---|---|---|---|---|
+| Association Drone Maroc | Casablanca | Association socioprofessionnelle des drones civils (créée en 2013, selon l'annuaire) | à confirmer | à confirmer | à confirmer | Adhésion. Bonnes pratiques et contacts avec les autorités. Liste des membres autorisés | C | https://www.kerix.net/fr/annuaire-entreprise/association-drone-maroc |
+| Drone Clean Morocco | Casablanca | Nettoyage de vitres et de façades de grande hauteur par drone (selon l'annuaire) | à confirmer | à confirmer | à confirmer | Sous-traitance ou partenariat le temps d'obtenir l'agrément. À noter : c'est aussi un concurrent direct | C | https://www.telecontact.ma/annonceur/drone-clean-morocco/9052694/casablanca.php |
+| Droneway | Casablanca | Distributeur DJI et Tekever, solutions B2B | voir 6.2 | voir 6.2 | https://droneway.ma | Mise en relation avec ses clients opérateurs. Location de matériel avec opérateur | B | https://fr.hespress.com/393411-tekever-et-droneway-sassocient-pour-dynamiser-lindustrie-marocaine-des-drones.html |
+| Kerix, rubrique « Drones, exploitation professionnelle » | National | Annuaire d'opérateurs drones (Casablanca, Rabat, etc.) | — | — | https://www.kerix.net/fr/annuaire-entreprise/drones-exploitation-professionnelle.html | Repérer des opérateurs, puis vérifier leurs autorisations | C | (idem) |
+| CleanEdge / Solar Energy Cleaning | Rabat / Kénitra | Nettoyage de panneaux solaires (pas de drone mentionné) | à confirmer | à confirmer | à confirmer | Partenariat croisé : leur clientèle solaire et notre technique par drone | C | https://www.kerix.net/fr/annuaire-entreprise/cleanedge ; https://www.kerix.net/fr/annuaire-entreprise/solar-energy-cleaning |
+
+### 6.4 Modèles Drones (à valider avant tout envoi)
+
+#### 6.4.1 Demande d'information sur l'agrément d'exploitant de drone (DGAC)
+
+**Version française**
+
+**Objet** : Demande d'information — Exploitation professionnelle d'aéronefs télépilotés pour le nettoyage de façades et de panneaux solaires
+
+> Madame, Monsieur le Directeur,
+>
+> La société [Nom de l'entreprise] ([RC / ICE]), en cours de constitution à [Ville], prévoit d'utiliser des aéronefs télépilotés (drones de nettoyage d'environ [masse] kg, reliés ou non à une alimentation en eau par le sol) pour nettoyer des façades vitrées, des toitures et des panneaux photovoltaïques. Les interventions se feront à basse hauteur (moins de [X] m), à vue et sur des périmètres balisés, à Casablanca, Rabat, Marrakech, Tanger et Agadir.
+>
+> Nous souhaiterions connaître :
+> 1. le cadre réglementaire applicable et le service de la DGAC compétent pour les aéronefs télépilotés ;
+> 2. les conditions d'agrément ou de certification de l'exploitant, ainsi que la qualification exigée des télépilotes (formation, centre reconnu) ;
+> 3. les règles d'exploitation en zone urbaine et à proximité des aérodromes, et l'articulation avec les autorisations du Ministère de l'Intérieur et des autorités locales ;
+> 4. les exigences d'assurance et d'immatriculation des appareils.
+>
+> Nous sommes à votre disposition pour présenter notre projet lors d'un rendez-vous.
+>
+> Veuillez agréer, Madame, Monsieur le Directeur, l'expression de notre haute considération.
+>
+> [Nom du gérant] — [Téléphone] — [Email]
+
+**النسخة العربية**
+
+**الموضوع**: طلب معلومات حول الاستغلال المهني للطائرات بدون طيار في تنظيف الواجهات والألواح الشمسية
+
+> السيد(ة) المدير(ة) المحترم(ة)،
+>
+> تحية طيبة وبعد،
+>
+> تعتزم شركة [اسم الشركة] (السجل التجاري / التعريف الموحد: [الرقم])، في طور التأسيس بمدينة [المدينة]، استعمال طائرات بدون طيار مخصصة للتنظيف (كتلة تقريبية [الكتلة] كلغ) لتنظيف الواجهات الزجاجية والأسطح والألواح الشمسية. ستتم التدخلات على علو منخفض (أقل من [X] متر)، مع إبقاء الطائرة في مجال الرؤية المباشرة وداخل محيط مُشوَّر، وذلك بمدن الدار البيضاء والرباط ومراكش وطنجة وأكادير.
+>
+> لذا نرجو منكم التفضل بإفادتنا بما يلي:
+> 1. الإطار القانوني المطبق والمصلحة المختصة بالطائرات بدون طيار داخل المديرية العامة للطيران المدني؛
+> 2. شروط اعتماد أو ترخيص المستغل، والمؤهلات المطلوبة في المتحكمين عن بعد (التكوين والمراكز المعترف بها)؛
+> 3. قواعد الاستغلال داخل المجال الحضري وبالقرب من المطارات، والتنسيق مع تراخيص وزارة الداخلية والسلطات المحلية؛
+> 4. متطلبات التأمين وتسجيل الطائرات.
+>
+> ونبقى رهن إشارتكم لتقديم مشروعنا خلال موعد تحددونه.
+>
+> وتفضلوا بقبول فائق عبارات التقدير والاحترام.
+>
+> [اسم المسير] — [الهاتف] — [البريد الإلكتروني]
+
+#### 6.4.2 Demande d'autorisation d'utilisation de drone (Ministère de l'Intérieur / wilaya ou préfecture)
+
+**Version française**
+
+**Objet** : Demande d'information et d'autorisation — Utilisation professionnelle de drones de nettoyage
+
+> Monsieur le Wali / Monsieur le Gouverneur,
+>
+> La société [Nom de l'entreprise] ([RC / ICE]) souhaite utiliser, à titre professionnel, des drones pour nettoyer des façades et des panneaux solaires sur des sites privés et industriels de [préfecture / ville]. L'appareil n'emporte **ni caméra d'enregistrement** [à adapter si une caméra de pilotage est présente]. Les vols se font à basse hauteur, sur un périmètre balisé et avec l'accord écrit du propriétaire ou du syndic.
+>
+> Nous vous prions de bien vouloir nous indiquer :
+> 1. la procédure et le service compétent pour obtenir l'autorisation d'utilisation (par chantier ou par programme d'interventions) ;
+> 2. les pièces à fournir et le délai d'instruction ;
+> 3. la procédure d'avis préalable à la licence d'importation de nos appareils.
+>
+> Nous restons à votre entière disposition pour tout complément d'information.
+>
+> Veuillez agréer, Monsieur le Wali / Monsieur le Gouverneur, l'expression de notre très haute considération.
+>
+> [Nom du gérant] — [Téléphone] — [Email]
+
+**النسخة العربية**
+
+**الموضوع**: طلب معلومات وترخيص لاستعمال طائرات بدون طيار لأغراض مهنية (التنظيف)
+
+> السيد الوالي / السيد العامل المحترم،
+>
+> تحية طيبة وبعد،
+>
+> تتشرف شركة [اسم الشركة] (السجل التجاري / التعريف الموحد: [الرقم]) بإحاطتكم علماً برغبتها في استعمال طائرات بدون طيار لأغراض مهنية، من أجل تنظيف الواجهات والألواح الشمسية بمواقع خاصة وصناعية بـ[العمالة / المدينة]. لا تحمل الطائرات أي كاميرا للتسجيل [يُعدَّل عند الاقتضاء]. ستتم الرحلات على علو منخفض داخل محيط مُشوَّر، وبعد الحصول على موافقة كتابية من المالك أو السنديك.
+>
+> لذا نلتمس منكم التفضل بإفادتنا بما يلي:
+> 1. المسطرة المتبعة والمصلحة المختصة لمنح ترخيص الاستعمال (لكل ورش أو لبرنامج تدخلات)؛
+> 2. الوثائق المطلوبة وآجال دراسة الطلب؛
+> 3. مسطرة الرأي المسبق المتعلق برخصة استيراد الطائرات.
+>
+> ونبقى رهن إشارتكم لأي معلومات إضافية.
+>
+> وتفضلوا، السيد الوالي / السيد العامل، بقبول فائق عبارات التقدير والاحترام.
+>
+> [اسم المسير] — [الهاتف] — [البريد الإلكتروني]
+
+#### 6.4.3 Demande de licence d'importation de drones (commerce extérieur via PortNet, copie pour information à l'ADII)
+
+**Objet** : Demande de licence d'importation — Drones de nettoyage à usage professionnel (arrêté n° 386-15)
+
+> Madame, Monsieur,
+>
+> La société [Nom de l'entreprise] ([RC / ICE]) souhaite importer [nombre] drones de nettoyage professionnels de marque [marque], modèle [modèle] (masse [X] kg, fréquences radio [2,4 / 5,8 GHz]), avec leurs radiocommandes et leurs batteries. Ils sont destinés exclusivement à notre activité de nettoyage de façades et de panneaux solaires.
+>
+> Nous souhaitons connaître :
+> 1. la procédure de demande de licence d'importation (dépôt sur PortNet, pièces à joindre, délai) et le circuit d'avis du Ministère de l'Intérieur ;
+> 2. le régime douanier applicable (importation définitive ou temporaire pour démonstration), la position tarifaire et les droits et taxes ;
+> 3. l'obligation éventuelle d'homologation ANRT des équipements radio, et qui doit la demander (importateur ou constructeur).
+>
+> Nous joignons la fiche technique des appareils, ainsi que [RC, ICE, statuts, description de l'activité].
+>
+> Veuillez agréer, Madame, Monsieur, nos salutations distinguées.
+>
+> [Nom du gérant] — [Téléphone] — [Email]
+
+#### 6.4.4 Demande de partenariat avec un opérateur drone autorisé
+
+**Objet** : Proposition de partenariat — Nettoyage de façades et de panneaux solaires par drone
+
+> Madame, Monsieur,
+>
+> [Nom de l'entreprise] lance une activité de nettoyage de vitres, de façades et de panneaux solaires à [villes]. Nous disposons d'un portefeuille de clients en cours de constitution (syndics, hôtels, sites industriels, centrales solaires), et nous préparons nos propres autorisations d'exploitation de drones.
+>
+> Pendant cette période, nous souhaitons travailler avec un opérateur **déjà autorisé**, selon l'une des formules suivantes :
+> - sous-traitance des vols (vos télépilotes et vos appareils ; notre personnel au sol, notre matériel de nettoyage et notre relation client) ;
+> - mise à disposition d'appareils avec télépilote, sur devis par chantier ;
+> - co-traitance sur les appels d'offres (solaire, industrie).
+>
+> Pour cela, nous vous serions reconnaissants de nous transmettre une copie de vos autorisations (utilisation, importation des appareils) et de votre attestation d'assurance. Nous vous proposons une rencontre de 30 minutes [créneaux].
+>
+> Bien cordialement,
+>
+> [Nom du gérant] — [Téléphone] — [Email]
+
+#### 6.4.5 Questions à ajouter au script d'appel (section 3.4), pour les autorités drones
+
+- « Quel service traite les drones à usage professionnel : DGAC, Ministère de l'Intérieur ou wilaya ? »
+- « L'autorisation de vol se demande-t-elle par chantier ou peut-on obtenir une autorisation par programme ? »
+- « Un drone de nettoyage sans caméra d'enregistrement suit-il une procédure différente ? »
+- « Le projet de décret sur les drones civils est-il en vigueur ? »
+
+### 6.5 Relance (même plan qu'en section 4)
+
+J+3 appel, J+7 relance écrite, J+14 dépôt physique au bureau d'ordre de la wilaya ou de la DGAC contre accusé de réception. **Les délais drones annoncés par la presse vont de plusieurs semaines à plusieurs mois.** Il faut donc lancer les demandes de licence d'importation et d'autorisation d'utilisation **dès l'immatriculation de la société**, en parallèle du partenariat avec un opérateur déjà autorisé.
+
+### 6.6 Points drones à confirmer en priorité
+
+1. Le service drones de la DGAC, son email et le statut du décret sur les drones civils.
+2. Le circuit précis au Ministère de l'Intérieur et le service compétent dans chacune des 5 wilayas ou préfectures.
+3. L'obligation d'homologation ANRT pour les radiocommandes déjà homologuées à l'étranger (CE / FCC).
+4. Les opérateurs réellement autorisés : demander les preuves écrites, car l'annuaire ne suffit pas.
